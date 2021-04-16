@@ -1,0 +1,844 @@
+gender,lecture_attendance,job,statistics,programming,Java,MATLAB,R,Python,C,SQL
+female,I prefer to attend lecture,No,5,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,4,0,1,0,1,0,0
+female,I prefer to attend lecture,No,6,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,2,10,1,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,10,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,8,9,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,7,1,0,0,0,0,0
+female,I prefer to attend lecture,No,2,9,1,0,0,1,0,0
+female,I prefer to attend lecture,No,7,8,0,1,0,1,0,0
+female,I prefer to attend lecture,Yes,5,5,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,3,0,0,0,0,0,0
+male,I prefer to attend lecture,No,2,8,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,7,10,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,3,0,1,0,1,0,0
+female,I prefer to attend lecture,Yes,5,6,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,5,1,1,0,0,0,0
+female,I prefer to attend lecture,Yes,5,3,0,1,0,0,0,0
+female,I prefer to attend lecture,Yes,6,2,0,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,8,10,1,1,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,6,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,10,1,1,0,1,1,0
+male,I prefer to attend lecture,Yes,3,8,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,7,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,6,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,7,1,1,0,1,0,0
+male,I prefer to attend lecture,No,4,2,1,0,1,0,1,0
+female,I prefer to attend lecture,Yes,8,7,1,0,0,1,0,0
+male,I prefer to attend lecture,No,3,7,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,4,7,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,3,0,1,0,0,0,0
+male,I prefer to attend lecture,Yes,5,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,5,1,0,0,1,0,0
+female,I prefer to attend lecture,NA,5,8,1,0,0,1,1,0
+male,I prefer to attend lecture,Yes,3,3,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,7,10,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,6,1,1,0,0,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,9,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,5,6,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,8,5,0,0,0,1,0,0
+male,I prefer to attend lecture,Yes,8,5,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,7,8,0,1,0,0,0,0
+male,I prefer to attend lecture,No,5,8,1,0,1,0,1,0
+male,I prefer to attend lecture,Other,5,2,0,0,1,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,10,1,0,0,0,1,0
+female,I prefer to attend lecture,No,7,6,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,7,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,9,7,1,1,0,0,0,0
+female,I prefer to attend lecture,Yes,3,5,0,0,0,0,0,0
+female,I prefer to attend lecture,Yes,7,2,0,1,0,0,0,0
+female,I prefer to attend lecture,Other,8,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,10,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,6,7,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,8,8,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,6,6,1,0,0,1,0,0
+male,I prefer to attend lecture,No,8,8,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,5,9,1,0,1,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,2,7,1,0,1,1,1,0
+male,I prefer to attend lecture,Yes,9,8,1,0,1,1,0,0
+female,I prefer to attend lecture,No,5,5,0,1,0,0,0,0
+female,I prefer to attend lecture,Yes,6,8,1,1,0,0,1,0
+female,I prefer to attend lecture,Yes,5,7,1,0,0,1,1,0
+other or prefer not to say,I prefer to attend lecture,Yes,7,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,5,9,1,1,0,0,0,0
+female,I prefer to attend lecture,Yes,6,6,1,0,1,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,8,1,0,0,1,1,0
+female,I prefer to attend lecture,No,5,8,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,6,1,0,0,0,0,0
+female,I prefer to attend lecture,No,4,10,1,0,0,1,1,0
+female,I prefer to attend lecture,No,6,9,1,1,0,0,0,0
+male,I prefer to attend lecture,No,6,5,0,1,0,0,0,0
+male,I prefer to attend lecture,No,4,7,1,1,0,0,0,0
+female,I prefer to attend lecture,No,5,3,0,0,0,0,0,0
+male,I prefer to attend lecture,No,7,8,1,0,0,0,0,0
+female,I prefer to attend lecture,No,3,4,0,1,0,1,0,0
+male,I prefer to attend lecture,Yes,3,5,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Other,6,7,1,0,0,0,1,0
+male,I prefer to attend lecture,Yes,4,4,1,0,0,1,0,0
+female,I prefer to attend lecture,No,5,4,1,0,0,0,0,0
+female,I prefer to attend lecture,No,2,4,1,0,0,0,0,0
+female,I prefer to attend lecture,No,3,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,2,0,1,0,1,0,0
+male,I prefer to attend lecture,Yes,6,7,0,1,0,1,1,0
+male,I prefer to attend lecture,No,2,5,1,0,0,0,1,0
+female,I prefer to attend lecture,Yes,3,3,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,10,10,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,8,10,1,0,1,1,1,0
+male,I prefer to attend lecture,No,5,7,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,3,1,0,0,0,0,0
+female,I prefer to attend lecture,No,7,7,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,9,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,7,9,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,7,7,0,0,0,1,0,0
+male,I prefer to attend lecture,No,5,5,1,1,0,1,1,0
+female,I prefer to attend lecture,Yes,9,5,1,0,1,0,1,0
+female,I prefer to attend lecture,Other,5,6,1,1,0,0,0,0
+female,I prefer to attend lecture,Yes,9,7,1,1,0,0,1,0
+female,I prefer to attend lecture,Other,5,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,4,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,4,6,1,0,0,1,0,0
+male,I prefer to attend lecture,No,3,5,0,1,0,1,0,0
+male,I prefer to attend lecture,No,6,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Other,7,5,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,3,2,0,0,1,0,1,0
+male,I prefer to attend lecture,No,7,9,1,0,0,1,0,0
+male,I prefer to attend lecture,No,6,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,3,3,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,7,4,1,0,0,1,0,0
+male,I prefer to attend lecture,No,3,5,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,7,6,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,2,7,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,3,8,1,1,0,1,1,0
+male,I prefer to attend lecture,No,6,7,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,7,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,9,1,0,0,1,0,0
+male,I prefer to attend lecture,No,9,5,0,0,1,1,0,0
+male,I prefer to attend lecture,No,9,10,1,0,1,1,0,0
+female,I prefer to attend lecture,Yes,3,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,7,6,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,8,8,1,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,7,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,10,10,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,6,10,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,8,1,1,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,6,1,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,8,1,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,3,1,0,0,0,0,0
+female,I prefer to attend lecture,No,9,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,8,10,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,6,5,0,0,1,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,6,1,0,1,1,0,0
+male,I prefer to attend lecture,Yes,7,3,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,7,1,1,1,0,1,0
+male,I prefer to attend lecture,Yes,3,10,0,1,0,1,0,0
+female,I prefer to attend lecture,No,4,6,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,8,4,0,0,0,1,0,0
+male,I prefer to attend lecture,Yes,8,4,0,1,0,0,0,0
+male,I prefer to attend lecture,Yes,5,9,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,7,1,1,1,1,0,0
+other or prefer not to say,I prefer to attend lecture,No,5,10,0,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,5,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,6,8,0,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,9,1,0,0,1,1,0
+male,I prefer to attend lecture,Yes,3,6,1,0,0,1,0,0
+female,I prefer to attend lecture,No,1,7,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,4,3,0,0,0,1,0,0
+male,I prefer to attend lecture,No,3,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,6,8,1,1,0,1,1,0
+female,I prefer to attend lecture,Yes,5,3,1,1,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,9,1,0,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,7,8,1,1,0,1,0,0
+male,I prefer to attend lecture,No,10,3,1,1,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,No,7,7,1,1,1,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,5,0,1,1,1,0,0
+other or prefer not to say,I prefer to attend lecture,No,8,9,0,0,1,1,0,0
+male,I prefer to attend lecture,No,8,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,4,7,1,1,0,0,0,0
+female,I prefer to attend lecture,Yes,6,5,1,0,1,0,0,0
+male,I prefer to attend lecture,No,5,9,1,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,5,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,8,1,0,0,1,1,0
+female,I prefer to attend lecture,No,5,2,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,7,7,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,7,10,1,0,1,1,0,0
+male,I prefer to attend lecture,No,7,4,0,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,10,1,1,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,3,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,5,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,6,5,1,1,1,0,0,0
+male,I prefer to attend lecture,Yes,8,9,1,1,0,1,1,0
+male,I prefer to attend lecture,No,7,10,1,1,0,0,1,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,7,1,0,0,0,0,0
+female,I prefer to attend lecture,No,5,7,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,6,10,1,0,0,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,7,0,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,7,1,0,0,0,1,0
+female,I prefer to attend lecture,Yes,6,5,1,1,1,0,0,0
+male,I prefer to attend lecture,No,3,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,3,3,1,0,0,0,0,0
+male,I prefer to attend lecture,No,3,5,1,0,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,Other,8,7,1,0,0,0,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,10,10,0,0,0,1,0,0
+male,I prefer to attend lecture,No,6,8,1,1,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,4,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,4,5,1,1,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,1,4,1,0,0,1,0,0
+female,I prefer to attend lecture,No,5,4,1,1,0,0,0,0
+female,I prefer to attend lecture,No,5,5,1,1,0,0,0,0
+male,I prefer to attend lecture,No,6,9,1,1,0,1,0,0
+female,I prefer to attend lecture,No,5,10,1,0,0,1,0,0
+male,I prefer to attend lecture,No,6,9,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,4,10,1,0,0,1,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,9,9,0,0,1,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",NA,2,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,8,1,0,0,1,1,0
+male,I prefer to attend lecture,No,6,8,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,6,9,1,0,1,0,0,0
+male,I prefer to attend lecture,No,6,8,1,0,0,1,0,0
+female,I prefer to attend lecture,No,6,7,1,0,0,0,1,0
+female,I prefer to attend lecture,Yes,7,5,1,0,0,0,0,0
+female,I prefer to attend lecture,No,4,5,1,0,0,0,1,0
+female,I prefer to attend lecture,No,4,2,0,0,1,0,0,0
+female,I prefer to attend lecture,No,6,6,1,0,0,0,1,0
+female,I prefer to attend lecture,No,4,5,1,0,0,1,0,0
+female,I prefer to attend lecture,No,5,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,6,9,1,0,0,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,7,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,3,2,0,0,1,1,1,0
+male,I prefer to attend lecture,No,6,7,0,0,0,1,0,0
+male,I prefer to attend lecture,No,7,8,1,1,0,1,0,0
+male,I prefer to attend lecture,No,6,9,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,7,5,1,0,0,0,1,0
+male,I prefer to attend lecture,No,4,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,10,0,1,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,NA,5,3,1,1,0,0,0,0
+male,I prefer to attend lecture,No,7,7,1,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,8,0,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Other,5,10,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Other,4,10,1,0,1,1,1,0
+female,I prefer to attend lecture,No,5,10,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,9,1,0,0,0,0,0
+male,I prefer to attend lecture,Other,7,10,1,0,0,1,1,0
+male,I prefer to attend lecture,Yes,8,5,0,1,0,1,0,0
+female,I prefer to attend lecture,Yes,6,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,0,1,0
+male,I prefer to attend lecture,Yes,7,7,0,0,0,1,0,0
+male,I prefer to attend lecture,No,5,5,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,6,3,1,1,1,0,1,0
+female,I prefer to attend lecture,Yes,6,4,1,0,0,0,0,0
+male,I prefer to attend lecture,NA,7,7,1,1,0,1,0,0
+female,I prefer to attend lecture,No,7,8,0,0,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,3,3,0,1,0,0,0,0
+male,I prefer to attend lecture,No,8,10,1,1,1,1,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,6,1,0,0,0,0,0
+male,I prefer to attend lecture,No,10,10,1,0,1,1,0,0
+female,I prefer to attend lecture,No,2,9,1,0,1,0,1,0
+male,I prefer to attend lecture,Yes,4,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,8,1,0,1,0,1,0
+other or prefer not to say,I prefer to attend lecture,No,9,7,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,6,8,1,0,1,1,0,0
+female,I prefer to attend lecture,No,5,6,0,1,0,1,0,0
+female,I prefer to attend lecture,Yes,7,3,1,1,1,0,1,0
+female,I prefer to attend lecture,Yes,5,7,1,1,1,0,0,0
+male,I prefer to attend lecture,No,7,7,0,1,0,1,0,0
+male,I prefer to attend lecture,No,5,7,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,7,0,0,1,1,0,0
+male,I prefer to attend lecture,No,6,8,1,0,0,1,1,0
+female,I prefer to attend lecture,Yes,7,7,1,1,0,1,0,0
+male,I prefer to attend lecture,No,8,10,1,1,0,1,1,0
+female,I prefer to attend lecture,No,5,5,0,0,0,0,1,0
+male,I prefer to attend lecture,No,8,10,1,0,0,1,1,0
+female,I prefer to attend lecture,No,6,8,1,0,0,0,0,0
+female,I prefer to attend lecture,No,5,3,0,1,0,0,0,0
+female,I prefer to attend lecture,No,5,3,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,7,0,0,0,1,1,0
+female,I prefer to attend lecture,Yes,1,8,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,7,7,1,1,0,0,0,0
+male,I prefer to attend lecture,NA,7,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,4,7,1,0,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,7,8,1,1,1,1,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,2,9,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,4,6,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,6,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,6,1,0,0,0,0,0
+female,I prefer to attend lecture,No,6,8,1,1,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,10,1,1,1,1,0,0
+male,I prefer to attend lecture,No,10,10,1,1,1,1,0,0
+female,I prefer to attend lecture,Yes,8,5,1,0,0,0,1,0
+female,I prefer to attend lecture,Yes,5,9,1,0,0,1,0,0
+male,I prefer to attend lecture,No,4,7,0,1,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,3,0,0,0,0,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,5,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,3,2,0,0,1,0,0,0
+male,I prefer to attend lecture,No,5,5,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,7,5,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,6,0,1,0,0,0,0
+female,I prefer to attend lecture,No,7,9,1,1,0,0,0,0
+female,I prefer to attend lecture,No,8,6,0,0,1,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,6,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,7,0,0,0,1,0,0
+male,I prefer to attend lecture,No,8,9,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,5,0,1,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,4,5,0,0,0,0,1,0
+male,I prefer to attend lecture,No,6,8,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,7,1,0,0,0,0,0
+female,I prefer to attend lecture,No,5,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,9,7,1,1,1,1,0,0
+male,I prefer to attend lecture,Yes,7,8,1,0,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,No,5,10,1,0,0,1,0,0
+male,I prefer to attend lecture,No,6,4,0,1,0,0,1,0
+male,I prefer to attend lecture,No,7,10,1,1,1,1,0,0
+female,I prefer to attend lecture,Yes,4,7,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,9,1,0,0,1,1,0
+female,I prefer to attend lecture,Other,4,8,1,0,0,1,1,0
+female,I prefer to attend lecture,No,4,2,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,8,4,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,7,1,1,0,1,0,0
+male,I prefer to attend lecture,No,3,7,1,1,0,0,0,0
+male,I prefer to attend lecture,Yes,5,5,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,2,10,1,0,0,0,1,0
+male,I prefer to attend lecture,No,7,9,1,0,0,0,1,0
+female,I prefer to attend lecture,No,8,9,1,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,9,8,0,0,0,1,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,3,1,0,0,0,0,0
+male,I prefer to attend lecture,No,4,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,3,9,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,6,5,0,0,0,1,0,0
+male,I prefer to attend lecture,No,8,9,1,0,0,0,1,0
+male,I prefer to attend lecture,No,7,2,1,0,1,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,8,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,5,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,9,10,1,1,0,1,0,0
+male,I prefer to attend lecture,No,6,9,1,0,0,1,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,10,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,5,8,1,0,0,1,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,2,2,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,8,0,1,0,0,0,0
+male,I prefer to attend lecture,No,8,10,1,1,1,1,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,8,0,0,0,1,0,0
+male,I prefer to attend lecture,Yes,4,7,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,9,1,0,0,0,0,0
+male,I prefer to attend lecture,No,10,10,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,6,2,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,6,10,1,1,0,0,1,0
+male,I prefer to attend lecture,Yes,6,8,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,9,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,5,6,1,0,1,1,0,0
+male,I prefer to attend lecture,No,5,5,1,0,0,1,0,0
+female,I prefer to attend lecture,No,8,3,1,1,0,0,0,0
+male,I prefer to attend lecture,No,4,9,1,0,0,1,0,0
+female,I prefer to attend lecture,No,3,10,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,7,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,7,0,1,1,1,0,0
+female,I prefer to attend lecture,Other,3,2,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,6,6,0,1,0,1,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,10,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,6,8,1,1,0,1,1,0
+male,I prefer to attend lecture,Yes,7,7,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,7,8,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,6,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,10,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,7,5,0,1,1,1,0,0
+male,I prefer to attend lecture,No,6,8,0,0,0,1,0,0
+male,I prefer to attend lecture,NA,5,10,1,0,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,NA,8,10,1,1,1,0,0,0
+male,I prefer to attend lecture,Yes,5,6,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,8,1,1,0,0,1,0
+female,I prefer to attend lecture,Yes,7,9,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,5,8,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,5,8,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,4,8,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,1,5,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,10,10,1,0,1,0,0,0
+male,I prefer to attend lecture,Yes,5,8,1,0,0,0,0,0
+female,I prefer to attend lecture,No,3,3,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,6,7,1,0,0,0,0,0
+female,I prefer to attend lecture,No,1,7,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,7,8,1,0,0,1,0,0
+female,I prefer to attend lecture,No,5,8,0,0,0,0,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,8,1,0,1,1,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,3,3,1,0,0,0,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,9,1,0,0,1,0,0
+female,I prefer to attend lecture,No,6,8,1,0,0,1,1,0
+male,I prefer to attend lecture,No,7,7,0,0,1,0,0,0
+male,I prefer to attend lecture,No,4,7,1,0,0,0,0,0
+female,I prefer to attend lecture,No,1,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,10,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,7,0,1,0,1,0,0
+male,I prefer to attend lecture,No,6,3,0,0,0,0,1,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,10,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,5,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,6,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,8,3,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,7,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,6,1,0,1,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,7,1,0,0,0,1,0
+male,I prefer to attend lecture,Yes,6,6,1,1,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,2,3,0,0,1,0,1,0
+other or prefer not to say,I prefer to attend lecture,No,7,10,1,1,0,1,1,0
+male,I prefer to attend lecture,No,7,7,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,5,0,0,0,0,1,0
+male,I prefer to attend lecture,Other,8,8,1,0,0,1,1,0
+other or prefer not to say,I prefer to attend lecture,No,3,7,0,1,0,0,0,0
+female,I prefer to attend lecture,No,7,9,1,0,0,0,1,0
+female,I prefer to attend lecture,No,8,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,7,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,10,1,0,1,1,1,0
+female,I prefer to attend lecture,No,3,6,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,9,1,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,1,6,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,8,5,1,0,1,0,0,0
+male,I prefer to attend lecture,No,7,10,1,0,1,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,1,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,6,0,0,1,1,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",NA,7,8,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,5,9,1,0,0,0,0,0
+female,I prefer to attend lecture,No,6,4,1,1,0,0,0,0
+male,I prefer to attend lecture,No,8,6,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,10,0,0,0,1,0,0
+female,I prefer to attend lecture,No,6,6,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,1,9,1,0,0,0,1,0
+male,I prefer to attend lecture,Yes,8,7,1,0,0,1,0,0
+female,I prefer to attend lecture,No,6,8,1,0,1,0,0,0
+male,I prefer to attend lecture,No,7,8,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,5,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,5,9,1,1,1,1,1,0
+male,I prefer to attend lecture,No,5,3,1,1,0,0,0,0
+female,I prefer to attend lecture,No,8,4,1,0,1,0,0,0
+male,I prefer to attend lecture,No,6,7,1,0,0,0,1,0
+other or prefer not to say,I prefer to attend lecture,Yes,8,8,1,1,0,0,0,0
+male,I prefer to attend lecture,No,5,4,1,1,0,0,0,0
+male,I prefer to attend lecture,No,9,5,0,0,1,0,0,0
+male,I prefer to attend lecture,No,3,9,1,0,1,1,1,0
+male,I prefer to attend lecture,No,7,8,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,2,6,0,0,0,0,1,0
+male,I prefer to attend lecture,Yes,5,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,4,6,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,6,9,1,1,1,1,1,1
+male,I prefer to attend lecture,No,2,8,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,6,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,8,5,1,0,1,0,0,0
+male,I prefer to attend lecture,Yes,4,10,1,0,0,0,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,5,1,0,1,0,0,0
+male,I prefer to attend lecture,Other,6,3,0,1,0,0,0,0
+male,I prefer to attend lecture,Yes,6,6,1,1,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,4,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,7,1,0,0,1,0,0
+female,I prefer to attend lecture,No,5,3,1,0,0,0,0,0
+male,I prefer to attend lecture,No,4,6,0,0,0,1,0,0
+male,I prefer to attend lecture,No,6,9,1,0,0,1,1,0
+other or prefer not to say,I prefer to attend lecture,Yes,6,10,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,2,2,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,5,0,1,0,0,0,0
+female,I prefer to attend lecture,Yes,7,5,1,0,0,0,0,0
+female,I prefer to attend lecture,No,8,8,1,0,0,1,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,9,1,1,1,0,0,0
+female,I prefer to attend lecture,No,7,6,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,7,9,1,0,0,0,0,0
+female,I prefer to attend lecture,No,5,7,0,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,2,0,0,1,0,1,0
+male,I prefer to attend lecture,Yes,4,9,1,0,0,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,8,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,6,4,1,0,1,0,1,0
+male,I prefer to attend lecture,Yes,9,10,1,1,1,1,1,0
+male,I prefer to attend lecture,No,3,5,0,1,0,1,1,0
+female,I prefer to attend lecture,No,5,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,10,1,1,0,0,1,0
+other or prefer not to say,I prefer to attend lecture,Yes,5,9,1,1,1,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,10,1,0,1,1,1,0
+female,I prefer to attend lecture,No,5,6,0,0,0,1,0,0
+male,I prefer to attend lecture,No,3,5,1,1,0,0,0,0
+female,I prefer to attend lecture,Yes,3,6,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,10,5,0,1,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,No,1,10,1,1,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Other,7,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,7,1,0,0,0,1,0
+male,I prefer to attend lecture,Other,4,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,3,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,7,1,1,1,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,10,1,1,1,1,0,0
+female,I prefer to attend lecture,No,6,8,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,9,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,4,0,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,9,0,1,0,0,0,0
+female,I prefer to attend lecture,No,4,2,0,0,1,0,0,0
+female,I prefer to attend lecture,No,5,5,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,7,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,2,4,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,7,1,1,1,0,0,0
+female,I prefer to attend lecture,No,6,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,5,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,9,1,1,1,1,1,0
+female,I prefer to attend lecture,Yes,3,3,1,1,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,3,7,1,1,0,0,0,0
+male,I prefer to attend lecture,No,7,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,8,6,1,0,0,0,0,0
+female,I prefer to attend lecture,No,4,3,1,0,0,0,0,0
+female,I prefer to attend lecture,No,4,8,1,1,0,0,0,0
+female,I prefer to attend lecture,No,4,4,1,0,0,0,0,0
+female,I prefer to attend lecture,No,7,8,1,0,1,1,1,0
+female,I prefer to attend lecture,No,5,5,1,0,0,0,1,0
+female,I prefer to attend lecture,No,8,10,1,1,1,1,1,0
+male,I prefer to attend lecture,Yes,9,10,1,0,1,0,0,0
+male,I prefer to attend lecture,Other,9,9,1,1,0,1,0,0
+male,I prefer to attend lecture,No,8,8,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,7,7,0,0,0,1,0,0
+male,I prefer to attend lecture,Yes,7,7,1,0,1,1,1,0
+other or prefer not to say,I prefer to attend lecture,NA,4,7,1,0,0,0,0,0
+female,I prefer to attend lecture,No,5,5,0,0,0,0,1,0
+male,I prefer to attend lecture,No,7,9,1,0,0,1,0,0
+female,I prefer to attend lecture,No,4,7,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,10,1,1,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,9,9,1,1,1,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,6,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,7,1,0,0,0,1,0
+male,I prefer to attend lecture,No,3,4,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,8,3,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,1,0,0
+male,I prefer to attend lecture,Other,5,9,0,0,1,1,0,0
+male,I prefer to attend lecture,No,7,9,1,0,0,1,1,0
+female,I prefer to attend lecture,No,9,10,0,0,0,1,0,0
+male,I prefer to attend lecture,No,9,10,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,5,2,1,1,0,0,0,0
+female,I prefer to attend lecture,No,9,7,1,1,0,1,0,0
+female,I prefer to attend lecture,No,7,6,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,6,10,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,5,10,1,0,0,1,0,0
+male,I prefer to attend lecture,No,4,3,0,0,0,1,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,3,8,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,2,3,0,1,0,0,0,0
+female,I prefer to attend lecture,No,2,10,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,5,0,0,0,0,1,0
+male,I prefer to attend lecture,Yes,8,10,1,0,1,1,0,0
+male,I prefer to attend lecture,Other,6,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,8,1,0,0,1,0,0
+female,I prefer to attend lecture,No,2,2,0,0,0,0,0,0
+female,I prefer to attend lecture,No,2,3,1,0,0,0,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,8,1,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,7,5,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,5,10,1,0,1,1,1,0
+male,I prefer to attend lecture,No,1,10,1,0,0,1,1,0
+female,I prefer to attend lecture,Yes,4,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,3,5,1,0,1,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,10,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,8,0,0,0,1,1,0
+other or prefer not to say,I prefer to attend lecture,Yes,6,9,1,0,0,1,1,0
+male,I prefer to attend lecture,No,5,7,0,0,0,1,0,0
+female,I prefer to attend lecture,No,4,3,0,1,1,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,9,1,0,0,1,0,0
+male,I prefer to attend lecture,No,4,10,1,0,0,0,1,0
+male,I prefer to attend lecture,Yes,4,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,8,1,0,0,1,1,0
+female,I prefer to attend lecture,No,8,8,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,6,3,1,1,0,0,1,0
+other or prefer not to say,I prefer to attend lecture,Yes,6,3,1,1,0,0,1,0
+female,I prefer to attend lecture,No,5,6,1,1,0,0,0,0
+female,I prefer to attend lecture,Yes,7,9,1,0,0,1,0,0
+female,I prefer to attend lecture,No,2,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,9,1,1,1,0,0,0
+male,I prefer to attend lecture,No,7,9,0,0,0,1,0,0
+female,I prefer to attend lecture,No,5,8,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,4,7,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,10,10,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,6,8,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,5,0,1,0,0,0,0
+male,I prefer to attend lecture,Yes,8,10,1,1,0,1,0,0
+male,I prefer to attend lecture,No,4,4,0,1,0,0,0,0
+female,I prefer to attend lecture,No,3,5,1,0,1,1,1,0
+male,I prefer to attend lecture,No,5,3,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,7,1,1,0,0,0,0
+male,I prefer to attend lecture,No,6,8,1,0,0,0,0,0
+female,I prefer to attend lecture,No,3,2,0,1,0,0,0,0
+female,I prefer to attend lecture,No,5,10,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,7,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,9,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,8,8,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,2,0,1,0,0,0,0
+male,I prefer to attend lecture,Yes,5,6,1,1,0,0,0,0
+male,I prefer to attend lecture,No,4,8,1,1,0,0,0,0
+male,I prefer to attend lecture,No,5,10,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,6,4,0,0,0,1,0,0
+male,I prefer to attend lecture,No,8,5,1,0,1,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,6,1,0,0,0,0,0
+female,I prefer to attend lecture,No,9,10,1,1,1,1,0,0
+male,I prefer to attend lecture,Yes,8,10,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,6,9,1,1,0,1,0,0
+female,I prefer to attend lecture,No,6,1,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,3,3,0,0,0,1,0,0
+male,I prefer to attend lecture,Yes,8,10,1,1,1,1,1,0
+male,I prefer to attend lecture,No,10,8,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,8,10,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,3,7,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,6,6,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,10,1,1,0,1,0,0
+male,I prefer to attend lecture,No,10,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,3,0,1,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,5,1,0,1,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,6,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,7,1,1,1,1,0,0
+female,I prefer to attend lecture,Yes,3,3,0,1,0,0,0,0
+female,I prefer to attend lecture,Yes,3,7,1,1,0,1,0,0
+male,I prefer to attend lecture,No,10,9,0,1,1,1,0,0
+male,I prefer to attend lecture,Yes,10,9,0,0,1,1,0,0
+female,I prefer to attend lecture,Yes,7,5,1,1,0,1,0,0
+male,I prefer to attend lecture,No,6,4,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,4,8,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,9,7,0,0,0,1,0,0
+male,I prefer to attend lecture,No,4,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,8,8,1,0,1,1,0,0
+female,I prefer to attend lecture,Yes,8,8,1,0,0,0,0,0
+female,I prefer to attend lecture,No,8,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,8,0,1,0,1,0,0
+female,I prefer to attend lecture,No,5,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,8,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,6,7,1,0,0,0,1,0
+male,I prefer to attend lecture,No,9,4,0,0,0,1,0,0
+male,I prefer to attend lecture,Yes,7,7,1,0,0,1,0,0
+male,I prefer to attend lecture,No,4,10,1,0,0,0,1,0
+female,I prefer to attend lecture,Yes,8,6,0,1,0,1,0,0
+female,I prefer to attend lecture,Other,6,5,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,6,5,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,3,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,8,10,1,0,1,0,1,0
+male,I prefer to attend lecture,Yes,5,7,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,9,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,7,10,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,6,4,1,0,0,0,0,0
+female,I prefer to attend lecture,No,7,6,1,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,7,1,1,0,1,0,0
+male,I prefer to attend lecture,No,9,9,1,1,1,1,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,6,6,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,10,2,0,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,3,1,0,0,0,0,0
+female,I prefer to attend lecture,No,10,7,1,0,1,0,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,6,9,1,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,7,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,2,9,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,8,2,0,0,0,1,0,0
+male,I prefer to attend lecture,No,6,6,1,0,0,0,0,0
+female,I prefer to attend lecture,No,7,7,1,0,0,0,0,0
+female,I prefer to attend lecture,No,6,7,1,0,0,0,1,0
+male,I prefer to attend lecture,Yes,3,5,1,0,1,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,8,1,1,0,1,1,0
+female,I prefer to attend lecture,No,3,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,3,8,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,3,1,0,0,0,0,0
+female,I prefer to attend lecture,No,8,8,1,0,0,1,0,0
+female,I prefer to attend lecture,Other,9,9,1,0,0,1,1,0
+male,I prefer to attend lecture,No,4,8,1,0,0,0,1,0
+male,I prefer to attend lecture,No,6,6,1,1,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,2,2,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,5,0,0,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,No,4,10,0,0,0,1,0,0
+male,I prefer to attend lecture,No,4,5,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,4,10,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,10,1,1,0,0,0,0
+female,I prefer to attend lecture,No,5,3,0,1,1,1,0,0
+female,I prefer to attend lecture,No,4,7,1,1,0,0,0,0
+female,I prefer to attend lecture,No,6,6,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,3,0,0,1,1,1,0
+male,I prefer to attend lecture,No,5,3,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,6,1,0,0,0,0,0
+male,I prefer to attend lecture,No,1,5,1,0,1,1,1,0
+male,I prefer to attend lecture,No,5,7,0,0,0,1,0,0
+male,I prefer to attend lecture,Yes,7,6,0,1,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,9,8,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,7,4,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,5,1,0,1,0,1,0
+male,I prefer to attend lecture,No,2,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,9,1,0,0,0,1,0
+male,I prefer to attend lecture,No,7,9,1,0,0,1,1,0
+female,I prefer to attend lecture,No,8,8,1,0,1,0,0,0
+female,I prefer to attend lecture,No,6,6,1,1,0,1,0,0
+female,I prefer to attend lecture,No,5,6,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,5,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,6,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,4,9,1,0,0,0,1,0
+female,I prefer to attend lecture,No,3,2,0,1,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Other,3,5,0,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,8,1,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,4,10,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,3,0,1,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,4,2,1,0,0,0,1,0
+male,I prefer to attend lecture,No,8,10,1,0,0,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,8,1,0,0,1,0,0
+female,I prefer to attend lecture,No,5,8,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,6,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,10,8,0,1,1,0,0,0
+female,I prefer to attend lecture,No,5,7,1,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,7,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,7,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,2,2,0,0,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,NA,3,5,1,1,0,1,0,0
+male,I prefer to attend lecture,No,3,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,7,1,0,0,1,0,0
+male,I prefer to attend lecture,No,2,2,0,1,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,1,2,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,10,1,0,0,1,0,0
+female,I prefer to attend lecture,No,4,8,1,0,0,0,0,0
+male,I prefer to attend lecture,No,6,8,1,1,0,0,1,0
+male,I prefer to attend lecture,No,6,9,1,1,1,0,1,0
+male,I prefer to attend lecture,No,5,5,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,3,7,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,2,10,0,0,0,1,0,0
+female,I prefer to attend lecture,No,2,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,3,0,1,0,1,0,0
+female,I prefer to attend lecture,No,3,8,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,4,8,1,0,0,1,0,1
+male,I prefer to attend lecture,No,6,9,1,0,0,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,7,0,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,9,1,0,0,0,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,6,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,10,1,1,0,0,0,0
+female,I prefer to attend lecture,Yes,9,10,1,1,1,1,0,0
+male,I prefer to attend lecture,No,3,2,0,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,8,6,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,5,6,1,0,0,0,1,0
+male,I prefer to attend lecture,Yes,8,5,0,1,0,1,1,0
+male,I prefer to attend lecture,NA,6,10,1,1,0,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,9,9,0,1,1,0,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,2,0,0,1,0,0,0
+other or prefer not to say,I prefer to attend lecture,No,5,9,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,8,8,1,0,1,1,1,0
+male,I prefer to attend lecture,Yes,7,10,1,0,0,0,0,0
+female,I prefer to attend lecture,No,3,7,1,0,1,0,0,0
+female,I prefer to attend lecture,Yes,5,5,1,0,0,0,0,0
+female,I prefer to attend lecture,No,4,5,1,0,0,1,0,0
+male,I prefer to attend lecture,No,6,5,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,4,4,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,7,4,1,0,0,0,0,0
+male,I prefer to attend lecture,No,5,8,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,2,0,1,0,0,0,0
+male,I prefer to attend lecture,No,4,8,1,0,1,0,1,0
+female,I prefer to attend lecture,No,4,4,0,0,0,1,0,0
+female,I prefer to attend lecture,No,3,8,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,6,6,1,0,0,1,0,0
+female,I prefer to attend lecture,Other,5,7,0,0,0,1,0,0
+male,I prefer to attend lecture,No,7,10,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,7,10,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,3,3,0,0,1,0,1,0
+female,I prefer to attend lecture,Yes,8,4,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,4,9,1,1,0,1,1,0
+female,I prefer to attend lecture,No,8,8,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,2,1,0,1,0,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,4,9,1,1,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,9,1,0,0,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",NA,8,7,1,0,0,1,0,1
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,7,1,0,0,1,1,0
+other or prefer not to say,I prefer to attend lecture,No,1,2,0,0,0,1,0,0
+male,I prefer to attend lecture,No,5,10,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,10,1,0,0,1,1,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,9,9,1,0,0,1,1,0
+female,I prefer to attend lecture,Yes,7,7,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,4,6,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,6,3,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,8,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,3,6,1,1,0,1,0,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Other,6,5,0,0,0,1,0,0
+female,I prefer to attend lecture,Yes,4,7,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,6,8,1,1,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,5,1,1,0,0,0,0
+male,I prefer to attend lecture,Other,4,8,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,8,8,1,0,0,0,0,0
+female,I prefer to attend lecture,No,7,7,1,0,0,1,0,0
+male,I prefer to attend lecture,No,6,2,1,1,0,0,0,0
+male,I prefer to attend lecture,No,7,5,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,5,5,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,5,6,1,0,0,0,0,0
+male,I prefer to attend lecture,No,7,3,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,10,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,5,8,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,6,8,0,1,0,0,0,0
+male,I prefer to attend lecture,No,7,10,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,3,7,0,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,9,1,1,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,NA,7,8,1,1,0,1,0,0
+male,I prefer to attend lecture,Yes,8,10,1,0,0,1,0,0
+male,I prefer to attend lecture,Yes,7,7,1,0,1,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,7,4,1,1,1,0,0,0
+male,I prefer to attend lecture,No,2,8,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,4,7,1,0,0,1,0,0
+male,I prefer to attend lecture,No,2,8,1,0,0,0,0,0
+other or prefer not to say,I prefer to attend lecture,Yes,4,10,1,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,9,1,0,1,0,1,0
+male,I prefer to attend lecture,No,7,2,1,0,0,0,0,0
+male,I prefer to attend lecture,Yes,7,8,1,1,0,0,0,0
+female,I prefer to attend lecture,No,6,7,0,0,0,1,0,0
+male,I prefer to attend lecture,Yes,8,7,1,0,0,0,0,0
+female,I prefer to attend lecture,No,4,6,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,7,1,0,1,0,0,0,0
+male,I prefer to attend lecture,Yes,5,7,1,0,1,0,0,0
+female,I prefer to attend lecture,Yes,5,7,0,0,0,1,0,0
+female,I prefer to attend lecture,No,3,10,1,0,0,0,0,0
+female,I prefer to attend lecture,No,5,10,1,0,0,1,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,3,1,0,1,0,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,3,6,1,0,0,1,0,0
+male,I prefer to attend lecture,No,7,8,1,0,0,0,1,0
+male,I prefer to attend lecture,No,6,6,1,0,0,0,0,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,3,7,1,0,0,0,0,0
+male,I prefer to attend lecture,No,3,8,1,0,0,1,1,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,5,2,1,0,0,0,0,0
+female,I prefer to attend lecture,No,8,4,1,0,1,1,0,0
+male,I prefer to attend lecture,Yes,8,9,1,0,0,1,0,0
+male,I prefer to attend lecture,No,5,5,1,0,0,0,1,0
+other or prefer not to say,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,2,9,1,0,1,0,0,0
+female,I prefer to attend lecture,Yes,1,4,1,0,0,0,0,0
+female,I prefer to attend lecture,No,7,4,0,0,0,1,0,0
+male,I prefer to attend lecture,No,3,6,1,0,1,0,1,0
+male,I prefer to attend lecture,No,5,7,1,0,0,0,1,0
+male,I prefer to attend lecture,No,6,3,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,4,6,1,0,1,0,1,0
+male,I prefer to attend lecture,No,3,3,1,0,0,0,0,0
+female,I prefer to attend lecture,Yes,6,7,1,0,0,1,0,0
+female,I prefer to attend lecture,Yes,7,3,0,1,0,0,0,0
+female,I prefer to attend lecture,No,6,8,1,0,0,0,1,0
+female,I prefer to attend lecture,No,6,6,0,1,1,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,9,6,0,0,1,1,0,0
+female,I prefer to attend lecture,Yes,3,7,0,1,0,1,0,0
+male,I prefer to attend lecture,No,7,9,1,1,0,1,0,0
+other or prefer not to say,I prefer to attend lecture,No,7,9,1,1,0,0,0,0
+male,I prefer to attend lecture,No,5,10,1,0,0,1,1,0
+male,I prefer to attend lecture,No,5,8,1,1,0,1,1,0
+female,I prefer to attend lecture,No,1,7,1,0,0,0,0,0
+male,I prefer to attend lecture,Other,6,8,1,0,0,1,0,0
+female,I prefer to attend lecture,No,7,7,1,0,0,0,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,7,1,0,0,1,1,0
+female,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",Yes,6,7,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,5,2,0,0,0,1,0,0
+male,"I prefer not to attend lecture (i.e. catch up later, listen to podcast, etc.)",No,7,1,1,1,0,1,0,0
+female,I prefer to attend lecture,Yes,1,5,1,0,0,0,0,0
+male,I prefer to attend lecture,No,8,10,1,1,1,1,0,0
+male,I prefer to attend lecture,No,4,7,1,0,0,0,0,0
