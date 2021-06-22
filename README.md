@@ -15,3 +15,9 @@ Course materials are organized by week.
 | 09 | Dimensionality Reduction  | [09_pca](https://github.com/COGS108/Lectures-Sp21/tree/master/09_pca)  |
 | 10 | Data Science Communication & Jobs  | [10_communication](https://github.com/COGS108/Lectures-Sp21/tree/master/10_communication)   | 
 | XX | Discussion Lab Answers  | [XX_lab_answers](https://github.com/COGS108/Lectures-Sp21/tree/master/XX_lab_answers)   | 
+
+
+---
+## License 
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md).
