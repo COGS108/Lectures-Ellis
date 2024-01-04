@@ -1,21 +1,19 @@
-# Lectures (Spring 2021)
+# Lectures (Winter 2024)
 
 Course materials are organized by week. 
 
 |Week  | General Topic  | Link to Materials   | 
 |---|:---|:---|
-| 01 | Introduction to Data Science   | [01_intro](https://github.com/COGS108/Lectures-Sp21/tree/master/01_intro)   | 
-| 02 | Version Control & Data  | [02_python](https://github.com/COGS108/Lectures-Sp21/tree/master/02_data) |
-| 03 | Data Ethics  | [03_ethics](https://github.com/COGS108/Lectures-Sp21/tree/master/03_ethics) |
-| 04 | Data Analysis | [04_analysis](https://github.com/COGS108/Lectures-Sp21/tree/master/04_analysis)   | 
-| 05 | Inference | [05_inference](https://github.com/COGS108/Lectures-Sp21/tree/master/05_inference)   |
-| 06 | Text Analysis  | [06_text](https://github.com/COGS108/Lectures-Sp21/tree/master/06_text)   | 
-| 07 | Machine Learning  |  [07_machine_learning](https://github.com/COGS108/Lectures-Sp21/tree/master/07_machine_learning)  | 
-| 08 | Geospatial Analysis | [08_geospatial](https://github.com/COGS108/Lectures-Sp21/tree/master/08_geospatial) | 
-| 09 | Dimensionality Reduction  | [09_pca](https://github.com/COGS108/Lectures-Sp21/tree/master/09_pca)  |
-| 10 | Data Science Communication & Jobs  | [10_communication](https://github.com/COGS108/Lectures-Sp21/tree/master/10_communication)   | 
-| XX | Discussion Lab Answers  | [XX_lab_answers](https://github.com/COGS108/Lectures-Sp21/tree/master/XX_lab_answers)   | 
-
+| 01 | Introduction to Data Science   | [01_intro](https://github.com/COGS108/Lectures-Ellis/tree/wi24/01_intro)   | 
+| 02 | Version Control & Data  | [02_git](https://github.com/COGS108/Lectures-Ellis/tree/wi24/02_git) |
+| 03 | Data Ethics & Wrangling  | [03_ethics](https://github.com/COGS108/Lectures-Ellis/tree/wi24/03_ethics) |
+| 04 | Data Viz & Analysis | [04_viz](https://github.com/COGS108/Lectures-Ellis/tree/wi24/04_viz)   | 
+| 05 | Exploratory Data Analysis | [05_eda](https://github.com/COGS108/Lectures-Ellis/tree/wi24/05_eda)   |
+| 06 | Inference  | [06_inference](https://github.com/COGS108/Lectures-Ellis/tree/wi24/06_inference)   | 
+| 07 | Text Analysis  |  [07_text](https://github.com/COGS108/Lectures-Ellis/tree/wi24/07_text)  | 
+| 08 | Machine Learning | [08_ml](https://github.com/COGS108/Lectures-Ellis/tree/wi24/08_ml) | 
+| 09 | Geospatial  | [09_geospatial](https://github.com/COGS108/Lectures-Ellis/tree/wi24/09_geospatial)  |
+| 10 | Data Science Communication & Jobs  | [10_communication](https://github.com/COGS108/Lectures-Ellis/tree/wi24/10_communication)   | 
 
 ---
 ## License 
