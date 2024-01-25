@@ -15,6 +15,7 @@ Course materials are organized by week.
 | 09 | Geospatial  | [09_geospatial](https://github.com/COGS108/Lectures-Ellis/tree/wi24/09_geospatial)  |
 | 10 | Data Science Communication & Jobs  | [10_communication](https://github.com/COGS108/Lectures-Ellis/tree/wi24/10_communication)   | 
 | -- | Discussion Section Slides  | [XX_section](https://github.com/COGS108/Lectures-Ellis/tree/wi24/XX_section)   | 
+| -- | Discussion Lab Answers  | [XX_lab_answers](https://github.com/COGS108/Lectures-Ellis/tree/wi24/XX_lab_answers)   | 
 
 ---
 ## License 
