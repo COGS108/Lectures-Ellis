@@ -1,0 +1,680 @@
+statistics,programming,gender,latinx,race,lgbtq,international,transfer,first_gen,Java,MATLAB,R,Python
+4,6,Male,Yes,Asian,No,No,NA,Yes,1,0,0,1
+6,9,Female,No,Asian,No,No,Yes,No,1,1,0,1
+7,8,Male,No,Asian,No,No,NA,No,0,0,0,0
+7,2,Female,No,NA,No,NA,Yes,Yes,0,0,0,1
+7,5,Female,NA,Asian,Yes,No,NA,No,1,0,0,1
+4,9,Male,No,Asian,No,Yes,Yes,NA,0,1,1,0
+8,8,Male,No,Asian,Yes,No,NA,No,1,0,0,1
+6,10,Female,No,NA,No,No,Yes,No,0,0,1,1
+8,4,Male,No,Decline to answer,NA,No,No,NA,0,0,1,1
+7,8,Female,Yes,White,No,No,No,No,1,0,0,1
+3,5,Female,No,Asian,No,No,No,No,1,0,0,1
+5,10,Male,No,NA,Decline to answer,No,No,NA,0,0,1,1
+8,10,Female,No,Asian,Yes,No,No,Yes,1,0,1,0
+6,7,Female,No,Asian,No,No,Yes,NA,0,0,0,1
+8,1,Male,Yes,Asian,No,No,No,No,1,0,0,1
+5,6,Decline or Other,No,Asian,No,No,No,No,1,1,1,1
+8,9,Male,No,Decline to answer,No,No,No,NA,1,1,1,1
+3,6,Male,No,Asian,Yes,NA,NA,No,1,0,0,0
+7,4,Female,No,Asian,No,No,Yes,NA,1,0,0,1
+7,10,Male,No,NA,No,No,No,No,1,0,0,1
+4,9,Female,No,Asian,No,No,No,Yes,1,0,1,0
+6,8,Male,No,Asian,NA,No,Decline to answer,No,1,1,1,1
+8,4,Male,No,Asian,No,Yes,No,No,1,1,1,1
+3,7,Male,No,NA,Yes,NA,No,Yes,1,0,1,1
+6,8,Female,No,NA,NA,Yes,No,Yes,0,0,0,1
+7,6,Decline or Other,No,"Asian, White",No,No,Yes,No,0,0,0,1
+8,9,Male,No,Asian,No,NA,NA,No,1,0,0,1
+7,8,Female,No,Asian,No,Yes,No,NA,1,1,0,1
+7,10,Male,No,NA,No,No,No,NA,0,0,0,1
+8,10,Female,No,Asian,NA,Yes,Decline to answer,No,1,0,0,1
+6,8,Male,Yes,Asian,No,No,No,NA,1,1,0,1
+4,4,Female,No,Asian,No,No,No,Yes,1,0,0,1
+8,7,Female,No,Asian,NA,Yes,No,No,0,0,0,1
+5,5,Nonbinary,No,Asian,Yes,NA,No,No,0,0,0,1
+7,7,Male,No,Asian,NA,No,NA,Yes,1,1,0,1
+5,7,Decline or Other,No,Asian,No,Yes,No,NA,0,0,0,1
+4,9,Decline or Other,No,Asian,No,Yes,No,Yes,1,1,0,1
+4,7,Male,No,Asian,No,No,No,No,0,1,0,1
+5,6,Female,NA,Decline to answer,No,Yes,No,NA,0,0,1,0
+9,8,Male,No,Asian,No,NA,Yes,Yes,1,1,0,1
+9,5,Male,NA,White,NA,NA,Yes,No,1,1,0,0
+6,7,Female,No,"Asian, White",No,NA,Yes,No,1,0,1,1
+5,6,Decline or Other,NA,White,No,No,No,No,1,0,1,1
+3,8,Decline or Other,No,Asian,Yes,No,No,NA,1,0,0,1
+3,9,Male,No,"Asian, White",No,Yes,No,Yes,1,0,0,1
+5,4,Decline or Other,No,Asian,No,No,No,No,1,1,1,1
+8,6,Male,NA,White,No,No,No,NA,1,0,1,1
+2,6,Male,No,Asian,No,Yes,No,Yes,1,1,0,1
+6,6,Male,No,Asian,NA,No,NA,No,0,1,0,0
+7,6,Male,No,White,No,Yes,No,Yes,0,0,0,1
+4,2,Male,NA,Asian,NA,No,Yes,No,0,1,1,1
+6,4,Decline or Other,Yes,Asian,No,No,No,Yes,0,0,0,0
+6,7,Male,No,Asian,No,No,No,No,1,0,0,0
+8,8,Decline or Other,No,Asian,Yes,No,Yes,No,1,1,1,0
+5,8,Female,No,NA,No,No,No,NA,1,0,0,1
+4,9,Female,No,White,No,No,Yes,Yes,1,0,0,1
+6,8,Male,No,Asian,No,Yes,No,Yes,1,0,1,1
+3,10,Male,No,Asian,Yes,No,NA,No,1,0,1,1
+5,5,Female,No,"Asian, White",NA,Yes,NA,Yes,1,0,1,0
+3,6,Male,No,Asian,Yes,No,No,No,0,1,0,1
+5,1,Male,No,Asian,No,NA,No,Yes,1,1,0,0
+6,8,Decline or Other,Yes,NA,No,No,No,No,1,0,0,0
+10,5,Male,No,Asian,No,Yes,No,No,1,0,1,1
+5,6,Female,No,NA,No,Yes,No,Yes,1,0,0,1
+2,6,Male,No,Asian,Yes,No,No,NA,1,0,0,1
+4,6,Male,No,Asian,No,No,No,No,1,1,0,0
+8,4,Decline or Other,No,Asian,NA,No,No,NA,1,0,0,1
+7,8,Decline or Other,No,Asian,No,No,Yes,No,1,1,0,1
+3,8,Decline or Other,No,"Asian, White",No,No,No,No,1,1,1,1
+3,5,Male,No,Asian,No,No,No,No,1,0,1,0
+4,9,Male,No,Asian,No,NA,NA,NA,0,0,0,1
+8,3,Male,No,Asian,No,NA,No,NA,0,1,0,0
+8,6,Male,No,Asian,No,Yes,Yes,NA,0,0,0,1
+7,3,Decline or Other,No,NA,No,No,No,Yes,0,0,1,1
+6,9,Male,No,Asian,No,No,No,NA,1,0,1,1
+5,8,Male,No,Asian,No,No,No,NA,1,0,1,1
+6,5,Male,No,NA,NA,Yes,No,No,0,0,0,1
+5,8,Female,Yes,"Asian, White",No,No,NA,No,0,0,1,1
+5,3,Decline or Other,NA,White,No,No,No,Yes,1,0,1,0
+7,6,Female,No,Asian,No,No,NA,No,1,0,0,0
+6,7,Decline or Other,No,NA,No,No,Yes,Yes,1,0,0,1
+7,6,Male,No,Asian,Decline to answer,No,No,No,0,0,0,1
+6,6,Nonbinary,No,White,Yes,Yes,No,No,1,1,1,1
+8,9,Male,No,White,Decline to answer,No,Yes,Yes,0,0,1,1
+6,3,Male,No,Asian,No,NA,No,Yes,1,0,0,1
+1,3,Female,No,NA,Yes,Yes,No,Decline to answer,1,0,0,1
+10,5,Male,No,White,No,NA,No,No,1,1,0,1
+7,10,Nonbinary,No,Decline to answer,No,NA,No,No,1,0,0,1
+6,6,Male,No,Asian,Yes,No,No,No,1,0,1,1
+5,6,Female,No,NA,No,No,No,No,1,1,0,1
+9,8,Nonbinary,No,Asian,No,No,NA,No,0,0,0,1
+8,10,Female,No,Asian,Yes,No,Yes,No,1,0,0,0
+6,4,Male,NA,Decline to answer,NA,No,No,No,1,0,0,1
+4,10,Male,NA,NA,NA,No,Yes,No,0,0,0,1
+6,6,Female,No,Decline to answer,No,No,No,No,0,0,1,1
+5,7,Decline or Other,No,Asian,Yes,NA,NA,NA,0,1,0,1
+5,9,Female,No,Asian,No,No,No,No,1,0,0,0
+6,5,Female,Yes,Asian,No,No,No,No,0,0,0,1
+6,2,Male,No,Asian,No,No,No,Decline to answer,1,0,0,0
+10,8,Male,No,Asian,No,NA,No,Yes,1,1,0,1
+6,5,Male,NA,Asian,Yes,No,No,No,1,1,0,1
+6,8,Male,Decline to answer,Asian,No,No,No,No,1,0,0,1
+4,3,Male,No,Asian,Decline to answer,No,Yes,No,1,0,0,1
+1,10,Male,NA,White,NA,No,Yes,Yes,1,0,1,0
+9,5,Female,No,Asian,No,No,Yes,NA,1,1,1,0
+4,8,Male,No,Decline to answer,No,NA,No,No,1,0,0,1
+5,8,Female,No,NA,No,NA,Yes,No,1,0,0,0
+7,9,Female,No,Asian,No,No,Yes,Yes,0,0,0,1
+1,8,Male,No,NA,No,No,No,No,0,0,0,1
+3,7,Male,No,Asian,No,Yes,NA,No,1,0,0,0
+8,8,Male,No,NA,No,No,NA,No,0,0,0,1
+3,8,Decline or Other,NA,Asian,Yes,No,NA,NA,1,1,1,1
+7,10,Decline or Other,No,NA,No,No,No,NA,0,1,0,1
+4,5,Male,No,White,No,Yes,Decline to answer,No,1,0,1,1
+7,10,Male,No,White,No,NA,No,Yes,1,1,0,1
+8,10,Male,No,White,No,No,No,No,1,1,0,0
+7,7,Decline or Other,No,Asian,No,No,Yes,No,1,0,1,0
+5,6,Male,No,White,No,No,NA,No,0,0,0,0
+6,8,Male,No,NA,No,No,No,Yes,0,0,0,1
+5,6,Male,No,Asian,Decline to answer,No,No,Yes,0,0,0,0
+7,6,Decline or Other,No,Asian,No,No,No,NA,1,0,0,1
+8,3,Decline or Other,No,White,NA,No,No,Yes,0,0,0,1
+4,5,Female,Yes,Asian,Decline to answer,No,No,Yes,1,0,0,1
+2,8,Female,No,Asian,No,No,No,NA,1,1,0,1
+7,4,Male,No,Asian,NA,NA,No,Yes,1,0,1,0
+7,6,Decline or Other,No,Decline to answer,No,Yes,No,No,1,0,1,1
+3,9,Male,No,White,NA,No,NA,NA,1,0,0,1
+7,6,Male,No,Asian,No,Yes,No,No,1,0,1,0
+2,8,Female,NA,Asian,No,No,No,No,1,0,0,1
+8,10,Female,No,Asian,Decline to answer,Yes,Yes,No,1,0,0,1
+6,10,Nonbinary,No,Asian,No,No,No,Yes,1,0,0,1
+5,4,Male,No,NA,NA,No,No,No,1,1,0,1
+7,7,Female,No,Asian,NA,No,NA,No,1,1,1,0
+10,7,Male,No,White,No,Yes,No,No,0,0,0,0
+3,10,Male,NA,Decline to answer,No,No,No,No,0,0,0,0
+5,3,Decline or Other,No,NA,No,NA,No,Yes,1,0,1,1
+3,7,Male,No,Asian,No,NA,No,No,1,0,0,1
+5,7,Female,No,Asian,No,No,No,No,1,1,1,1
+7,7,Male,No,Asian,No,No,No,Yes,1,0,1,1
+5,1,Nonbinary,Yes,Asian,No,No,No,No,0,0,0,1
+5,9,Female,No,Decline to answer,Yes,No,NA,No,0,1,0,1
+8,9,Decline or Other,No,Asian,Decline to answer,No,NA,No,1,1,0,1
+3,7,Decline or Other,No,NA,No,NA,No,NA,0,0,1,0
+10,7,Female,No,Asian,NA,No,No,No,1,1,0,1
+8,8,Male,No,Asian,Yes,No,Yes,No,1,0,1,1
+4,8,Male,NA,Asian,NA,No,No,Yes,1,0,1,0
+2,3,Male,Yes,Asian,No,NA,No,No,1,0,1,1
+6,9,Decline or Other,No,Asian,No,Yes,NA,NA,1,0,1,1
+4,8,Female,No,White,No,No,Yes,No,1,0,1,1
+7,8,Decline or Other,No,White,No,NA,NA,Yes,1,0,1,0
+6,9,Female,NA,Decline to answer,NA,No,NA,No,0,0,0,1
+7,6,Female,Yes,White,No,No,No,Decline to answer,1,0,1,1
+8,10,Male,No,White,NA,No,NA,No,1,0,0,1
+5,3,Decline or Other,No,NA,No,No,No,No,0,0,0,0
+7,5,Decline or Other,NA,Asian,NA,No,No,No,1,0,0,1
+4,7,Male,NA,Asian,No,No,No,No,0,0,0,0
+7,8,Male,NA,Asian,NA,No,No,Yes,1,0,0,1
+6,10,Female,No,Asian,No,No,No,Yes,0,0,0,0
+8,9,Decline or Other,No,Asian,NA,No,No,Yes,1,0,0,1
+4,5,Male,NA,Asian,NA,No,NA,Yes,0,0,1,0
+5,5,Male,No,NA,No,No,NA,No,0,0,0,1
+6,6,Decline or Other,No,Asian,NA,NA,No,No,0,0,1,1
+8,9,Male,Yes,Asian,Yes,No,NA,NA,1,0,0,0
+3,7,Decline or Other,NA,NA,No,No,No,NA,0,1,0,1
+5,3,Male,No,Asian,No,Yes,No,Yes,0,0,1,1
+8,9,Decline or Other,No,Asian,NA,NA,NA,No,0,1,0,1
+3,4,Decline or Other,No,Asian,No,Yes,No,No,1,0,1,1
+7,4,Decline or Other,No,Asian,No,No,Yes,Yes,1,0,0,1
+6,2,Decline or Other,NA,"Asian, White",NA,No,Yes,NA,0,0,0,1
+6,8,Decline or Other,No,White,No,No,No,No,0,1,1,0
+7,4,Female,No,Asian,No,NA,No,Decline to answer,0,1,0,1
+6,4,Female,No,Asian,NA,No,No,No,1,1,0,1
+7,5,Male,No,Asian,NA,No,No,No,0,0,1,1
+7,1,Female,No,Decline to answer,NA,No,No,No,1,1,0,1
+4,7,Female,Decline to answer,Asian,No,No,No,Yes,1,1,1,1
+7,7,Female,No,White,NA,No,No,No,1,0,1,1
+6,8,Decline or Other,No,Asian,No,No,No,No,1,0,1,1
+3,7,Decline or Other,No,Asian,No,Yes,No,No,1,1,1,1
+7,10,Female,No,Asian,Yes,No,Yes,No,1,0,0,1
+6,2,Male,No,NA,NA,No,No,Yes,1,1,0,1
+8,2,Decline or Other,No,Asian,Yes,NA,No,No,1,0,1,1
+5,6,Male,No,Asian,No,No,No,Decline to answer,1,0,0,1
+4,3,Male,No,Asian,No,No,Yes,No,0,0,1,1
+6,6,Female,No,NA,No,No,NA,No,0,0,1,1
+9,5,Female,NA,Asian,Yes,NA,No,NA,1,0,0,1
+3,10,Male,No,White,No,Yes,No,No,1,0,0,1
+5,7,Male,No,Asian,Yes,Yes,NA,Yes,0,1,0,1
+6,8,Decline or Other,NA,Asian,No,No,NA,No,1,1,0,1
+5,5,Male,No,Asian,No,Yes,No,Yes,1,0,0,1
+6,5,Female,No,Asian,NA,NA,NA,Yes,0,1,0,1
+7,7,Female,No,White,No,No,NA,No,0,0,1,1
+9,10,Male,No,NA,No,No,No,No,1,0,1,0
+6,10,Male,No,Asian,No,No,NA,No,1,0,0,1
+9,6,Female,No,Asian,No,No,No,NA,1,1,0,1
+4,9,Female,No,"American Indian or Alaska Native, Asian, Black or African American, Native Hawaiian or Other Pacific Islander, White",No,NA,NA,No,0,0,1,1
+7,10,Male,No,White,No,NA,No,NA,1,0,1,1
+4,7,Male,No,Asian,Decline to answer,NA,No,No,1,0,1,0
+9,5,Male,No,Asian,No,No,No,No,1,0,1,0
+7,4,Male,NA,Asian,Yes,NA,NA,NA,1,0,0,1
+9,6,Decline or Other,Yes,Asian,No,Decline to answer,No,No,1,0,0,1
+3,8,Male,No,NA,No,NA,No,No,1,0,1,1
+4,6,Decline or Other,No,Asian,NA,No,No,Yes,1,0,1,1
+6,5,Male,No,White,No,Yes,No,NA,1,1,0,1
+6,7,Female,No,NA,No,No,NA,NA,1,0,0,0
+5,10,Male,NA,Asian,No,No,No,No,1,0,1,1
+10,4,Female,No,White,No,No,No,No,0,0,0,1
+5,5,Female,No,Asian,No,No,No,Yes,0,1,1,1
+5,6,Male,No,NA,No,No,No,Yes,1,0,0,1
+4,7,Male,No,Asian,Decline to answer,No,No,Yes,0,0,0,1
+2,6,Male,No,Asian,No,NA,NA,No,1,0,1,1
+6,6,Male,NA,Native Hawaiian or Other Pacific Islander,Yes,No,No,No,1,1,0,1
+5,7,Decline or Other,No,Asian,NA,No,No,No,0,0,0,1
+8,10,Male,No,Asian,No,No,Yes,No,1,0,0,0
+5,7,Female,No,Asian,No,No,No,NA,0,0,1,1
+7,8,Male,No,Asian,No,No,NA,No,1,0,0,1
+7,8,Male,No,NA,Decline to answer,NA,Yes,No,1,1,1,1
+7,6,Male,No,Asian,NA,Yes,No,No,0,0,0,1
+3,8,Nonbinary,NA,"Asian, White",NA,NA,Yes,NA,1,0,0,1
+7,8,Female,No,NA,No,No,NA,No,0,0,1,0
+5,9,Female,NA,Black or African American,No,No,Yes,Yes,1,1,0,0
+4,3,Male,NA,NA,No,NA,No,No,1,0,1,0
+4,10,Male,No,White,NA,Yes,No,No,0,0,0,0
+5,7,Female,No,NA,Decline to answer,No,No,No,1,0,0,1
+2,4,Decline or Other,No,Asian,Yes,No,No,NA,1,1,1,1
+6,3,Female,Yes,NA,No,No,No,No,1,0,1,0
+7,8,Decline or Other,No,Asian,No,No,No,No,1,0,0,1
+6,7,Female,Yes,NA,No,No,No,No,1,0,0,1
+7,6,Decline or Other,No,White,No,No,No,NA,1,0,1,1
+7,7,Female,No,Asian,Decline to answer,Yes,Yes,No,1,1,0,1
+6,7,Male,No,NA,No,No,No,No,1,1,1,1
+8,8,Female,No,Asian,No,No,No,Yes,0,0,0,1
+6,9,Male,NA,NA,NA,No,No,No,0,0,1,1
+5,7,Female,No,"American Indian or Alaska Native, White",NA,No,Yes,No,1,0,1,1
+5,8,Female,NA,Asian,No,Yes,NA,Yes,1,0,0,1
+8,3,Male,No,White,No,No,NA,No,0,1,0,1
+4,8,Male,No,Asian,NA,No,No,No,0,0,1,1
+3,8,Female,Yes,Asian,No,No,No,NA,1,0,0,0
+6,9,Male,No,Asian,No,NA,NA,Yes,1,0,0,1
+6,4,Male,No,Asian,No,No,Yes,No,1,0,1,1
+6,10,Male,No,NA,No,No,No,No,0,0,0,0
+5,7,Female,No,Asian,No,No,No,No,1,0,0,0
+4,8,Male,No,Asian,No,No,No,No,1,1,1,1
+3,9,Male,No,"Black or African American, White",No,Yes,No,No,0,1,1,0
+3,10,Female,No,Asian,No,No,NA,No,1,0,1,1
+5,6,Male,No,Asian,No,No,No,No,1,0,0,1
+8,6,Female,No,Asian,NA,No,No,NA,0,0,1,1
+5,6,Decline or Other,No,Asian,No,No,No,No,1,1,1,0
+8,10,Female,No,NA,NA,No,NA,Yes,1,0,0,1
+4,4,Male,No,White,NA,No,No,NA,0,0,0,1
+4,5,Male,No,Decline to answer,Yes,Yes,Yes,No,0,0,0,0
+5,2,Decline or Other,Yes,Asian,No,NA,No,No,1,0,0,1
+5,7,Male,No,Asian,No,No,NA,No,1,1,0,1
+8,5,Male,No,NA,NA,No,No,No,1,1,0,0
+7,7,Female,Yes,Decline to answer,No,No,NA,No,1,1,0,1
+4,8,Decline or Other,Yes,White,NA,No,No,NA,1,1,0,1
+8,5,Decline or Other,No,White,No,No,No,No,1,0,0,1
+5,6,Male,Yes,NA,No,No,Yes,No,0,0,1,1
+5,10,Male,No,Asian,No,No,No,Decline to answer,1,1,1,1
+5,9,Female,No,Asian,No,No,No,No,0,0,0,1
+6,10,Female,No,White,No,No,No,No,0,1,0,1
+4,8,Female,No,Asian,No,Yes,No,No,1,0,0,0
+7,9,Male,No,Asian,Yes,NA,No,No,1,0,0,1
+6,2,Decline or Other,No,Asian,Yes,No,No,Decline to answer,1,0,0,1
+6,7,Male,No,NA,NA,Yes,NA,Yes,0,0,0,1
+6,7,Male,No,White,NA,No,No,No,1,0,0,1
+6,8,Male,No,NA,No,Yes,No,No,0,1,0,1
+2,8,Male,No,NA,No,No,Yes,Yes,0,0,0,1
+5,6,Male,NA,Asian,No,No,Yes,No,0,1,0,0
+6,9,Female,No,NA,No,Yes,NA,No,1,0,1,1
+7,9,Female,No,Asian,No,Yes,No,Yes,1,1,0,1
+8,6,Decline or Other,No,Asian,No,No,No,Yes,0,0,1,1
+6,8,Female,No,Asian,No,No,No,Yes,0,0,0,1
+5,5,Male,No,Asian,Yes,NA,NA,No,1,0,1,0
+6,4,Decline or Other,No,Decline to answer,No,No,No,Yes,1,1,1,0
+5,7,Male,NA,Asian,No,No,No,Yes,1,0,0,1
+6,3,Female,No,Black or African American,No,No,No,No,1,0,0,1
+7,3,Male,Decline to answer,White,No,Decline to answer,No,No,0,0,0,1
+5,6,Male,No,Asian,No,NA,No,Yes,1,0,0,1
+8,9,Male,No,White,No,NA,NA,No,0,0,0,1
+6,8,Male,NA,NA,No,NA,NA,NA,1,0,0,1
+5,8,Female,No,Asian,No,Yes,No,No,0,0,1,1
+8,4,Female,No,White,No,No,No,No,1,1,0,1
+2,8,Male,No,Asian,No,NA,No,No,1,0,0,0
+5,9,Male,No,Asian,No,No,No,No,1,0,0,1
+3,9,Male,No,Asian,No,Yes,NA,NA,0,0,0,1
+7,7,Male,Yes,Asian,No,No,No,No,1,1,0,1
+3,9,Female,Yes,Black or African American,No,Yes,NA,No,0,0,1,1
+5,8,Female,NA,Asian,NA,No,Yes,No,0,0,0,1
+4,10,Male,No,Asian,No,No,No,NA,1,0,1,1
+7,5,Male,No,"Asian, White",NA,No,No,No,1,1,0,0
+4,7,Decline or Other,No,Asian,NA,NA,Yes,No,1,1,0,1
+7,10,Male,No,Asian,No,No,Yes,Yes,1,0,1,1
+10,8,Female,Yes,Asian,No,No,NA,NA,1,0,0,1
+9,5,Male,No,White,No,No,Yes,No,1,0,0,1
+6,8,Female,No,Asian,No,NA,No,No,1,0,1,1
+8,8,Female,No,NA,No,Yes,No,No,1,1,0,1
+5,4,Decline or Other,NA,Asian,No,NA,No,No,1,0,0,1
+5,9,Female,No,Asian,No,No,No,No,0,0,0,1
+6,10,Male,No,White,No,Yes,Yes,NA,1,0,0,1
+3,7,Male,NA,"Asian, White",No,No,No,No,1,0,0,1
+7,2,Female,No,White,No,Yes,No,No,1,1,0,0
+8,3,Decline or Other,NA,NA,No,NA,No,No,1,0,0,1
+8,7,Male,No,Asian,NA,No,No,No,1,0,0,1
+6,5,Male,No,Asian,No,No,No,Decline to answer,1,1,0,0
+5,8,Female,No,Asian,No,No,No,No,1,1,0,1
+5,6,Male,No,White,Yes,No,No,Yes,0,1,1,1
+7,7,Male,No,Asian,No,Yes,No,Yes,1,1,1,0
+5,8,Decline or Other,No,White,NA,NA,Yes,NA,1,0,0,1
+4,5,Male,No,Asian,NA,NA,Yes,No,1,0,0,1
+5,6,Male,No,Asian,No,NA,No,Yes,1,1,1,1
+6,8,Male,No,White,No,Yes,No,Yes,1,0,0,1
+6,4,Male,No,Asian,NA,No,No,NA,1,1,0,1
+9,6,Female,No,White,NA,Yes,Yes,Yes,1,1,1,1
+5,5,Male,No,Decline to answer,No,Yes,No,No,0,1,0,1
+8,6,Female,No,Black or African American,NA,No,No,No,0,1,0,0
+4,3,Male,No,NA,No,No,No,NA,0,0,1,1
+5,6,Male,No,White,No,No,No,Yes,1,0,1,1
+10,7,Decline or Other,NA,NA,No,No,Yes,Decline to answer,0,0,1,1
+8,3,Male,No,Asian,Yes,No,No,No,0,0,0,1
+8,5,Female,No,Asian,No,No,Yes,No,0,0,0,1
+8,5,Decline or Other,No,Asian,NA,No,No,Yes,1,0,1,1
+7,8,Male,No,Asian,Yes,Yes,No,Decline to answer,0,0,0,1
+5,6,Male,NA,Asian,No,Yes,No,No,1,1,0,1
+2,8,Male,NA,Asian,No,No,NA,No,0,0,0,0
+10,6,Female,No,NA,No,No,No,NA,0,1,1,1
+2,8,Decline or Other,Yes,Asian,No,Yes,No,Yes,1,0,0,1
+6,7,Female,No,NA,No,Yes,NA,No,1,1,0,1
+4,5,Female,No,White,No,No,No,Yes,1,1,0,1
+5,9,Female,No,White,No,NA,No,Yes,0,0,0,1
+6,8,Male,No,White,No,Yes,NA,NA,1,0,0,1
+5,2,Decline or Other,No,Asian,No,No,NA,NA,0,0,1,1
+5,7,Female,No,Asian,Yes,No,No,NA,1,0,0,0
+3,9,Male,Yes,NA,Yes,NA,No,No,1,0,0,1
+5,6,Male,Decline to answer,Asian,No,No,No,No,1,0,0,0
+8,8,Male,No,"Asian, Native Hawaiian or Other Pacific Islander",NA,No,No,No,0,0,0,0
+4,8,Female,Yes,Asian,No,No,No,No,0,0,1,0
+4,10,Male,NA,White,No,No,Yes,No,1,1,0,0
+4,7,Female,Yes,NA,No,No,No,Yes,1,0,0,1
+10,5,Male,NA,NA,Yes,NA,No,NA,1,1,1,1
+3,8,Female,No,White,Yes,No,No,No,0,0,0,1
+6,5,Male,No,Asian,NA,No,NA,NA,1,0,0,1
+2,10,Female,Yes,NA,NA,No,NA,No,0,0,0,0
+5,10,Male,No,Asian,No,No,No,No,1,1,1,1
+7,5,Female,No,Asian,NA,No,No,No,0,1,0,0
+8,3,Male,No,Asian,No,NA,NA,Yes,1,0,1,0
+7,5,Male,NA,Asian,No,Yes,No,No,1,0,0,0
+7,10,Male,No,Asian,No,Yes,No,No,1,1,0,1
+4,8,Female,NA,White,No,Yes,No,No,1,0,0,1
+8,2,Male,No,Asian,No,No,No,No,1,1,0,1
+7,4,Male,No,Asian,No,No,Yes,No,0,0,0,1
+5,8,Female,No,Asian,No,No,No,No,0,0,0,0
+5,10,Male,No,Asian,Decline to answer,No,NA,No,1,0,0,1
+6,8,Male,NA,Asian,No,Yes,No,No,1,0,1,0
+6,6,Male,No,Asian,No,No,No,No,1,0,0,1
+3,10,Decline or Other,No,White,No,Yes,Yes,Yes,1,0,0,0
+7,5,Male,No,Asian,No,No,NA,NA,1,0,0,0
+4,8,Male,No,Asian,No,NA,Yes,No,0,0,0,1
+9,7,Female,NA,NA,No,Yes,No,Yes,1,0,0,1
+6,8,Female,No,White,No,No,No,No,1,0,1,1
+5,6,Female,No,NA,No,No,No,NA,0,1,1,1
+5,6,Female,NA,White,Yes,No,No,No,0,0,0,1
+5,7,Female,No,NA,No,No,NA,No,1,0,1,1
+6,5,Male,No,Asian,Yes,No,No,No,0,1,0,1
+7,3,Decline or Other,No,Asian,No,NA,No,No,0,0,1,1
+6,5,Female,No,Asian,No,NA,No,No,1,0,0,1
+9,3,Female,No,Asian,NA,No,No,No,1,0,1,1
+7,5,Male,No,Asian,NA,NA,No,No,1,1,1,1
+5,9,Male,NA,NA,Yes,No,No,No,0,0,1,1
+5,9,Male,No,Decline to answer,No,No,No,No,0,0,0,0
+5,8,Female,No,Asian,No,No,No,Yes,1,1,0,1
+9,6,Male,No,Asian,No,No,No,No,1,1,0,1
+7,4,Female,No,Asian,NA,No,No,Yes,1,0,0,0
+7,8,Male,No,White,NA,No,Yes,No,0,0,0,1
+9,8,Male,No,Asian,Yes,No,No,NA,1,1,0,1
+5,10,Male,Yes,Asian,No,Decline to answer,No,No,1,0,0,1
+7,3,Male,No,Asian,No,NA,NA,Yes,0,0,1,1
+5,7,Male,No,Asian,NA,NA,NA,No,1,1,1,1
+3,7,Male,No,White,Yes,No,No,No,0,0,0,0
+5,6,Decline or Other,No,Asian,No,No,No,No,0,1,0,0
+8,4,Male,No,Asian,No,NA,Yes,No,0,0,1,1
+5,9,Male,No,Asian,No,No,No,Yes,1,1,1,1
+7,6,Female,Yes,Asian,No,No,No,No,0,0,0,1
+5,2,Female,No,NA,No,No,Yes,NA,1,0,0,0
+4,6,Female,NA,NA,No,NA,No,NA,1,0,0,1
+9,5,Male,No,Asian,NA,No,No,Yes,1,0,1,1
+5,6,Male,NA,Asian,No,No,No,Yes,1,1,0,1
+8,5,Female,No,NA,NA,Yes,No,No,1,1,0,1
+3,10,Male,No,White,No,No,No,Decline to answer,1,0,0,1
+7,8,Male,No,NA,NA,No,No,NA,1,0,0,1
+7,8,Male,No,Asian,NA,No,No,Yes,1,0,0,0
+6,8,Female,No,Asian,No,No,No,No,1,0,0,1
+5,8,Decline or Other,No,Asian,NA,Yes,No,No,1,0,0,1
+7,8,Decline or Other,No,NA,No,No,Yes,No,0,0,0,1
+6,6,Male,No,Asian,NA,No,Yes,Yes,0,0,0,0
+1,7,Female,No,White,Yes,No,Yes,No,1,0,0,0
+5,6,Decline or Other,No,NA,Yes,NA,No,Yes,1,0,0,1
+3,8,Female,No,Asian,NA,No,No,Yes,0,1,1,1
+5,10,Decline or Other,No,"American Indian or Alaska Native, Asian, Native Hawaiian or Other Pacific Islander, White",No,No,No,Yes,0,0,0,0
+7,4,Female,No,Asian,NA,Yes,Yes,NA,0,0,1,1
+4,7,Male,No,Asian,NA,No,No,No,1,0,0,1
+4,7,Female,Yes,Black or African American,No,NA,NA,No,1,0,0,1
+6,8,Decline or Other,No,NA,No,NA,No,Yes,1,1,0,1
+8,8,Male,Yes,Asian,NA,NA,NA,Yes,1,1,0,1
+8,6,Female,No,Asian,No,NA,NA,Yes,1,0,0,1
+7,4,Decline or Other,No,Asian,No,No,No,No,1,0,0,0
+6,7,Female,No,Asian,No,NA,No,No,0,0,0,1
+7,8,Male,No,Asian,No,Yes,No,NA,0,1,0,1
+5,8,Decline or Other,No,NA,NA,No,No,No,1,0,0,1
+5,5,Female,No,White,No,No,No,Yes,1,1,0,1
+6,3,Female,No,NA,No,NA,No,No,1,0,1,0
+10,7,Female,NA,"Asian, White",NA,No,NA,No,1,1,0,1
+4,5,Female,No,Asian,No,No,No,Yes,1,0,0,1
+6,7,Male,No,Asian,No,NA,No,No,1,0,0,1
+5,8,Female,NA,Asian,No,NA,No,No,1,0,0,1
+6,9,Female,No,Asian,No,No,Decline to answer,NA,0,1,0,1
+7,7,Male,No,Asian,NA,No,No,No,1,0,0,0
+7,9,Male,No,Asian,No,Yes,No,Yes,1,0,0,0
+6,9,Male,NA,Asian,No,No,No,Yes,1,0,0,1
+7,3,Decline or Other,No,White,NA,Yes,No,No,1,0,1,1
+6,8,Female,No,NA,No,No,Yes,NA,1,0,1,1
+4,7,Female,Yes,Asian,NA,No,Yes,No,0,0,0,1
+7,6,Decline or Other,Decline to answer,Asian,NA,NA,No,No,0,1,1,0
+7,2,Male,No,Asian,NA,No,NA,NA,1,1,1,0
+7,8,Male,No,Asian,No,No,NA,NA,1,1,0,1
+7,8,Male,No,Asian,Yes,Yes,Yes,Yes,1,1,0,0
+5,9,Male,NA,Asian,Decline to answer,Decline to answer,No,No,1,1,0,0
+7,3,Male,No,Asian,No,No,Yes,No,1,0,0,0
+5,5,Female,NA,White,No,NA,No,No,1,0,0,1
+5,5,Female,No,Asian,No,No,No,No,1,0,0,0
+5,7,Male,No,Asian,Yes,No,No,No,1,0,0,0
+10,8,Decline or Other,Yes,Asian,No,No,Yes,No,1,0,0,0
+8,6,Decline or Other,No,Asian,No,No,No,No,1,0,1,1
+10,9,Female,No,NA,No,Yes,No,Yes,1,0,1,0
+7,9,Female,No,Asian,No,No,NA,Yes,1,0,1,1
+8,8,Female,No,Black or African American,Yes,No,Yes,No,1,1,1,1
+7,8,Female,No,Asian,No,No,Yes,NA,0,0,0,1
+8,9,Male,No,"Asian, Native Hawaiian or Other Pacific Islander, White",Decline to answer,No,No,No,0,1,0,1
+6,6,Male,No,NA,NA,NA,No,Yes,1,1,0,1
+4,10,Female,No,Decline to answer,No,Decline to answer,No,No,1,0,0,1
+6,8,Male,No,Asian,No,No,Yes,No,1,0,0,1
+6,10,Female,No,Asian,Yes,No,No,No,1,1,0,1
+6,10,Female,No,Asian,No,Yes,No,No,1,0,0,1
+3,8,Male,Yes,Asian,No,No,No,Yes,0,0,0,0
+7,5,Decline or Other,No,NA,Yes,No,Yes,No,0,0,0,0
+8,5,Male,No,Asian,No,No,No,NA,1,0,1,1
+9,7,Decline or Other,No,Asian,No,No,Yes,Yes,0,0,0,1
+5,8,Female,No,NA,NA,No,No,Yes,1,0,0,1
+4,9,Male,No,NA,No,No,NA,Yes,0,1,0,1
+6,3,Female,No,NA,No,No,NA,No,0,0,0,0
+7,5,Male,No,Asian,NA,No,No,No,1,1,1,1
+2,5,Male,No,NA,No,Yes,NA,No,1,0,0,1
+6,9,Male,NA,Asian,Yes,No,Decline to answer,Yes,0,0,0,0
+6,10,Male,NA,NA,No,No,No,Decline to answer,1,0,0,0
+7,5,Decline or Other,No,Asian,No,No,NA,No,1,1,0,1
+8,7,Female,No,Asian,NA,No,No,No,0,0,1,1
+4,4,Male,No,"Asian, Black or African American",Yes,No,No,No,1,0,0,1
+7,7,Decline or Other,No,Asian,No,No,Yes,No,1,1,0,1
+5,5,Female,No,Asian,No,No,No,Yes,1,0,0,1
+7,10,Decline or Other,No,Asian,No,Yes,NA,Yes,0,0,0,1
+8,3,Male,No,Asian,Decline to answer,NA,No,No,1,1,0,1
+8,5,Male,No,Asian,Yes,Yes,No,No,1,1,0,1
+6,10,Male,No,White,No,No,No,No,1,0,1,1
+5,10,Decline or Other,No,White,No,NA,No,No,1,0,0,1
+7,7,Male,NA,White,No,No,No,No,1,0,1,1
+7,10,Male,No,Asian,No,Yes,No,No,0,0,0,1
+2,6,Male,No,White,Yes,NA,Yes,No,1,0,1,1
+4,10,Male,No,Asian,No,No,No,No,1,0,0,1
+8,2,Male,NA,Asian,No,No,No,NA,0,0,0,0
+6,10,Female,No,Decline to answer,No,No,No,Yes,1,1,1,0
+1,9,Male,NA,Black or African American,No,No,No,Yes,0,0,1,0
+6,6,Female,NA,Asian,No,No,No,Yes,1,0,0,1
+4,8,Male,NA,Asian,No,No,No,NA,1,0,0,1
+3,8,Decline or Other,No,Asian,No,Yes,No,No,1,0,0,1
+5,7,Female,No,Asian,No,No,No,NA,1,0,0,1
+7,7,Female,No,NA,NA,No,No,No,1,1,0,0
+3,8,Decline or Other,No,Asian,No,No,No,Yes,1,0,1,0
+4,8,Female,No,White,No,No,No,No,1,0,0,1
+8,9,Male,No,Asian,NA,Yes,No,No,0,0,0,1
+7,10,Female,No,Asian,No,NA,No,Yes,0,0,0,0
+4,7,Male,No,Asian,No,No,Yes,Yes,1,1,0,1
+6,6,Decline or Other,No,Asian,NA,No,No,Yes,1,0,0,1
+1,4,Female,No,NA,No,No,No,No,0,0,0,1
+7,7,Male,Yes,Asian,No,No,No,Yes,1,0,0,1
+4,10,Decline or Other,NA,Asian,No,NA,NA,Yes,0,1,1,1
+7,6,Male,NA,NA,No,No,No,NA,0,1,1,1
+6,10,Male,No,Asian,No,No,NA,NA,0,0,0,0
+6,8,Male,No,Asian,Yes,No,No,No,0,0,0,1
+9,7,Female,No,Asian,NA,No,No,NA,1,0,1,0
+4,9,Decline or Other,No,Asian,No,NA,Yes,No,0,0,0,1
+10,3,Male,No,Asian,No,No,NA,No,0,0,1,0
+7,7,Female,No,Asian,No,No,No,NA,1,1,0,1
+1,8,Male,Yes,Asian,No,No,Yes,NA,0,1,1,0
+6,8,Male,Yes,Asian,No,No,No,No,0,0,0,1
+8,6,Female,NA,Asian,No,No,No,NA,1,0,0,1
+7,10,Female,NA,White,No,No,No,NA,0,0,0,1
+4,6,Male,Yes,NA,No,No,No,Yes,0,0,1,1
+7,10,Male,No,Asian,No,No,Yes,Yes,1,0,0,0
+8,3,Male,No,White,No,No,Yes,NA,1,0,0,1
+7,4,Decline or Other,No,Asian,No,No,NA,Yes,0,0,1,1
+4,5,Female,No,Asian,NA,No,No,NA,1,1,1,0
+7,6,Male,No,Asian,NA,NA,No,Yes,1,1,0,1
+3,3,Male,No,White,Yes,No,No,No,0,1,0,1
+5,8,Male,No,Asian,No,No,Yes,No,1,1,0,1
+2,5,Female,No,NA,No,No,No,No,0,1,0,1
+7,9,Female,No,Asian,Yes,Yes,NA,No,1,0,0,1
+10,10,Female,No,NA,No,No,No,Yes,1,0,0,0
+5,5,Male,NA,Asian,No,No,NA,Yes,0,1,1,1
+5,6,Female,No,Asian,No,Yes,Yes,No,0,0,0,1
+6,10,Male,No,Asian,Yes,Yes,No,No,0,1,1,0
+3,6,Male,NA,Asian,NA,No,No,Yes,1,1,0,1
+5,8,Female,No,Asian,NA,No,Yes,No,0,0,0,1
+4,10,Female,No,Asian,Yes,No,No,NA,1,0,0,0
+5,7,Male,Yes,White,No,No,Yes,Yes,1,0,0,1
+8,6,Female,No,Asian,No,No,No,Yes,0,0,0,1
+5,6,Female,No,NA,No,Yes,No,No,0,0,0,1
+4,4,Female,No,Asian,Yes,No,Yes,No,1,1,1,1
+3,8,Female,No,Asian,No,No,Yes,No,0,0,0,1
+6,7,Female,No,Asian,No,No,NA,Yes,1,0,0,1
+6,9,Male,No,"Asian, White",Yes,No,No,Yes,0,0,0,1
+7,7,Decline or Other,NA,Asian,Decline to answer,NA,No,NA,0,1,0,1
+2,3,Female,No,Asian,No,NA,No,No,1,0,0,1
+7,7,Male,No,White,Yes,Yes,Yes,No,1,0,0,0
+5,7,Decline or Other,No,White,Decline to answer,No,No,No,1,0,0,1
+6,5,Female,No,Asian,Decline to answer,No,No,No,1,1,0,1
+5,8,Male,No,"Asian, White",No,No,No,NA,1,0,0,1
+5,8,Male,No,Asian,Decline to answer,No,No,No,1,0,0,0
+5,7,Decline or Other,NA,Decline to answer,No,No,No,No,1,0,1,1
+8,5,Female,No,Asian,Yes,NA,No,No,1,0,0,0
+4,7,Female,No,Asian,No,No,NA,Yes,0,0,0,1
+7,8,Female,No,Asian,No,No,No,No,1,0,0,0
+7,4,Male,No,Asian,No,No,No,Yes,1,1,0,0
+8,10,Decline or Other,NA,Asian,No,No,No,No,1,0,0,0
+6,2,Female,No,"Asian, White",No,NA,No,Yes,0,1,0,0
+6,1,Male,No,Asian,No,No,No,No,1,0,0,1
+5,6,Male,No,Asian,NA,No,No,No,1,1,0,1
+7,4,Male,No,Asian,NA,Yes,No,No,1,0,1,0
+7,8,Male,NA,"Asian, White",NA,No,No,No,1,1,1,1
+6,10,Male,No,Asian,Yes,No,NA,No,1,0,1,1
+7,7,Male,NA,White,No,No,Yes,No,1,0,1,1
+7,8,Male,Yes,Asian,No,No,Yes,No,1,0,0,1
+6,4,Female,No,NA,No,No,No,No,0,0,0,1
+8,4,Female,No,Asian,Decline to answer,No,No,Yes,0,0,0,1
+7,9,Female,No,Asian,NA,No,No,No,0,0,0,1
+8,2,Male,No,Asian,No,No,No,Yes,0,0,0,1
+6,8,Female,No,White,No,No,No,Yes,0,1,0,1
+7,6,Male,No,Asian,No,NA,Yes,No,1,0,1,1
+6,3,Male,No,Asian,No,No,Yes,No,1,0,0,0
+3,10,Male,NA,NA,No,No,No,Yes,1,0,0,1
+5,5,Female,No,Asian,NA,NA,NA,No,1,0,0,1
+6,3,Decline or Other,No,Asian,Decline to answer,No,No,No,0,0,0,0
+5,10,Male,No,White,No,No,No,No,0,0,1,1
+6,5,Male,NA,White,Yes,No,No,NA,1,0,0,1
+7,8,Male,No,Asian,No,Yes,No,Yes,0,0,0,1
+6,10,Female,No,Asian,No,No,No,No,1,0,0,0
+5,8,Female,No,NA,NA,No,No,Yes,1,0,0,1
+6,5,Male,No,Asian,No,No,No,No,0,0,1,1
+3,4,Female,No,NA,No,No,No,NA,0,0,0,1
+5,9,Male,No,Asian,NA,No,No,Yes,1,0,0,1
+9,10,Female,No,NA,No,No,No,No,1,1,0,0
+4,7,Male,Yes,Decline to answer,No,No,No,No,0,0,0,0
+4,9,Female,No,NA,No,No,Yes,Yes,1,0,1,0
+4,8,Female,NA,Asian,No,No,No,NA,1,0,0,1
+6,8,Female,No,Asian,No,NA,No,No,0,0,0,1
+3,6,Decline or Other,NA,Asian,No,No,No,No,1,0,0,1
+10,8,Male,No,"Asian, Black or African American",Yes,No,NA,No,1,1,0,0
+5,5,Female,NA,White,No,No,Yes,No,0,0,0,1
+7,7,Male,No,White,No,No,No,No,0,0,1,0
+8,5,Female,Yes,White,No,NA,No,No,0,0,1,1
+7,9,Male,No,Asian,No,No,Yes,No,1,1,0,0
+5,6,Male,No,Asian,NA,No,No,No,1,0,0,1
+5,9,Decline or Other,No,Asian,No,No,NA,No,1,0,0,0
+8,4,Decline or Other,No,NA,Yes,No,No,Decline to answer,1,0,0,1
+6,8,Female,No,Asian,Decline to answer,No,No,Yes,1,0,0,0
+4,7,Male,No,"Asian, Black or African American",Yes,Yes,NA,No,0,0,0,1
+6,7,Female,NA,Asian,No,No,No,Yes,1,0,0,1
+8,3,Male,No,Asian,No,No,No,No,1,0,0,1
+6,5,Male,No,NA,No,No,Yes,No,0,0,0,1
+2,8,Male,No,Asian,No,No,Yes,No,1,0,0,1
+8,8,Female,No,Decline to answer,NA,Yes,Yes,No,0,0,0,0
+8,5,Female,No,Asian,Decline to answer,Yes,No,NA,1,0,0,0
+6,6,Female,No,White,No,No,No,Yes,1,0,0,1
+6,6,Female,No,"Black or African American, White",No,NA,No,Yes,1,0,1,1
+5,8,Decline or Other,No,Asian,No,Yes,NA,No,1,0,0,1
+6,3,Male,NA,White,No,No,No,Yes,1,0,0,1
+4,3,Decline or Other,No,Asian,Yes,No,Yes,NA,0,0,0,1
+4,8,Decline or Other,No,NA,No,No,NA,No,1,1,0,1
+5,6,Male,No,"Asian, Decline to answer",NA,No,No,No,1,1,1,1
+5,1,Nonbinary,No,Decline to answer,No,No,No,Yes,1,0,0,1
+6,4,Male,No,White,No,No,No,Decline to answer,1,0,0,1
+8,10,Female,No,Asian,NA,No,No,No,1,1,1,1
+6,9,Female,No,American Indian or Alaska Native,No,NA,Yes,Decline to answer,1,1,0,1
+5,9,Decline or Other,No,Asian,No,No,No,No,0,0,0,0
+8,9,Male,NA,NA,No,Yes,No,Yes,1,1,0,1
+8,8,Male,NA,Asian,NA,NA,No,NA,1,0,0,0
+5,8,Female,No,Black or African American,No,No,No,Yes,1,1,0,1
+7,3,Male,No,NA,NA,Yes,Yes,NA,0,1,1,1
+2,10,Female,No,Asian,No,NA,No,No,1,0,1,1
+8,10,Decline or Other,No,Asian,NA,No,No,NA,1,1,0,1
+7,7,Male,No,Asian,No,NA,No,No,1,0,0,1
+8,8,Male,NA,Asian,No,No,No,No,1,0,0,1
+5,4,Male,NA,Decline to answer,No,No,No,NA,1,0,1,1
+9,7,Female,No,Asian,No,Yes,No,No,0,0,1,1
+4,3,Male,Yes,White,No,Yes,NA,Yes,1,0,1,0
+5,5,Female,Yes,Asian,NA,No,No,Yes,1,0,0,1
+4,5,Female,No,Asian,No,No,No,No,0,0,0,1
+8,7,Male,No,NA,No,No,No,No,1,0,0,1
+2,8,Male,NA,NA,No,No,No,No,1,0,0,0
+7,8,Male,NA,Asian,No,No,Yes,NA,1,0,0,1
+7,5,Male,No,Asian,No,NA,Yes,NA,1,0,1,1
+5,7,Male,No,Asian,No,No,No,No,1,0,0,1
+6,10,Female,NA,Asian,NA,Yes,No,No,0,1,0,1
+3,10,Decline or Other,No,"Asian, White",NA,Yes,No,No,0,0,0,1
+7,9,Male,No,White,No,No,No,No,1,0,0,1
+9,5,Female,No,Decline to answer,No,NA,No,No,1,0,1,0
+3,10,Female,NA,Asian,No,No,Yes,Yes,1,0,1,1
+8,8,Female,No,Asian,NA,No,No,Yes,1,0,0,1
+6,8,Male,No,Asian,NA,Yes,No,No,1,0,0,1
+6,4,Decline or Other,No,Asian,Decline to answer,NA,No,No,1,1,0,1
+7,9,Decline or Other,No,NA,NA,No,No,Yes,0,0,0,0
+10,6,Nonbinary,No,"Black or African American, White",No,No,NA,NA,1,0,0,1
+4,6,Female,NA,Asian,No,No,No,No,1,0,1,1
+6,9,Female,No,Asian,No,No,No,Yes,1,0,1,1
+4,5,Female,No,NA,No,No,Yes,No,1,1,0,1
+2,10,Female,No,Asian,Yes,No,Yes,No,1,1,0,1
+7,7,Female,No,Asian,Yes,No,No,NA,1,1,0,1
+6,8,Male,No,Asian,No,No,No,NA,1,0,0,1
+6,3,Male,Yes,White,No,Yes,No,Yes,1,0,0,1
+4,8,Female,No,Asian,NA,NA,No,No,0,0,1,1
+3,6,Female,NA,NA,No,NA,No,Yes,1,0,0,1
+8,3,Female,No,"Asian, White",No,No,No,NA,1,0,0,0
+7,4,Male,No,NA,No,Decline to answer,Yes,No,1,0,0,1
+8,4,Female,No,White,Decline to answer,No,No,NA,1,1,0,1
+9,8,Decline or Other,NA,"Asian, White",NA,No,NA,No,0,0,0,1
+4,8,Female,No,Asian,Yes,No,No,No,1,0,0,1
+2,7,Male,Yes,Asian,No,No,No,No,1,0,0,1
+5,6,Male,No,Asian,No,No,No,No,1,0,0,0
+5,4,Decline or Other,No,Asian,No,NA,NA,No,1,0,0,1
+7,4,Male,Yes,Decline to answer,No,No,NA,NA,1,0,0,1
+4,8,Female,Decline to answer,NA,No,No,No,No,1,0,0,1
+8,7,Male,No,Asian,No,Yes,No,Yes,1,0,0,0
+9,4,Decline or Other,Yes,Asian,No,No,No,NA,1,1,0,1
+5,10,Female,NA,White,No,No,No,Yes,0,0,0,1
+8,9,Male,No,White,No,No,No,No,1,1,0,1
+4,8,Female,No,NA,No,Yes,No,No,0,0,1,0
+7,6,Female,NA,Asian,No,No,No,No,0,0,1,1
+4,5,Male,No,Asian,No,No,NA,Yes,0,0,0,1
+6,4,Male,NA,Asian,No,NA,No,No,0,1,0,1
+5,7,Nonbinary,No,Asian,No,NA,No,No,1,0,0,0
+3,6,Female,No,Asian,No,NA,No,No,0,0,0,0
+5,10,Male,No,White,No,No,No,No,0,1,0,0
+5,8,Female,Decline to answer,Asian,Yes,No,No,Yes,0,1,0,0
+6,8,Male,No,Asian,Yes,No,No,No,0,0,0,1
+7,9,Male,NA,Asian,No,NA,No,No,1,0,0,1
+6,9,Female,No,Decline to answer,No,No,No,No,0,0,0,1
+5,8,Female,No,Asian,No,NA,NA,NA,0,0,0,1
+7,10,Male,No,Asian,No,No,NA,No,1,0,1,1
+5,5,Decline or Other,No,Asian,No,No,No,NA,0,0,0,1
+7,7,Male,No,NA,No,No,No,Yes,1,0,1,1
+3,3,Male,No,White,No,No,NA,No,1,1,1,1
+6,3,Male,No,White,Yes,No,Yes,No,0,0,1,1
+1,6,Female,NA,Asian,No,No,Yes,No,1,0,0,1
+4,5,Male,Yes,NA,No,No,No,No,0,1,0,0
+9,8,Female,NA,Asian,No,Yes,No,No,0,1,0,1
+8,2,Male,NA,Asian,Yes,Yes,No,No,1,0,1,1
+7,8,Male,NA,Asian,No,No,No,No,1,1,1,1
+8,7,Male,No,Asian,No,Yes,No,NA,1,0,0,1
+4,10,Male,Yes,Asian,No,NA,No,Yes,1,0,0,1
+5,10,Male,NA,Asian,No,Yes,No,Yes,1,1,0,1
+4,7,Female,No,Asian,No,No,NA,No,1,0,0,1
+8,7,Male,No,Asian,NA,No,No,No,1,0,1,1
+7,5,Decline or Other,No,American Indian or Alaska Native,No,Yes,No,No,1,0,0,1
+7,8,Male,NA,Asian,NA,No,No,Decline to answer,0,0,0,0
+6,7,Female,No,Black or African American,No,Yes,Yes,No,1,1,1,0
+2,9,Male,NA,Asian,No,No,NA,No,1,0,0,1
+8,9,Male,No,NA,No,No,NA,No,1,0,0,1
+7,9,Male,NA,Asian,No,NA,No,No,0,1,1,0
+6,5,Female,NA,Asian,No,NA,No,No,0,0,0,0
+7,8,Male,NA,Asian,No,Yes,No,No,1,0,0,1
+1,9,Male,NA,Asian,No,No,Yes,Yes,1,0,0,0
