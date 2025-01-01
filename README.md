@@ -1,4 +1,8 @@
-# Lectures (Spring 2021)
+> [!WARNING]  
+> This is an OLD out-of-date set of notes (from Sp21). Be sure you're on the correct branch for the current iteration.
+
+
+# Lectures (OUT-OF-DATE)
 
 Course materials are organized by week. 
 
