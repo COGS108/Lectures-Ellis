@@ -7,7 +7,7 @@ Course materials are organized by week.
 | 01 | Introduction to Data Science   | [01_intro](https://github.com/COGS108/Lectures-Ellis/tree/wi25/01_intro)   | 
 | 02 | Version Control & Data  | [02_data](https://github.com/COGS108/Lectures-Ellis/tree/wi25/02_data) |
 | 03 | Data Ethics & Wrangling  | [03_ethics](https://github.com/COGS108/Lectures-Ellis/tree/wi25/03_ethics) |
-| 04 | Data Viz & Analysis | [04_viz](https://github.com/COGS108/Lectures-Ellis/tree/wi25/04_viz)   | 
+| 04 | Data Viz & Analysis | [04_analysis](https://github.com/COGS108/Lectures-Ellis/tree/wi25/04_analysis)   |
 | 05 | Exploratory Data Analysis | [05_eda](https://github.com/COGS108/Lectures-Ellis/tree/wi25/05_eda)   |
 | 06 | Inference  | [06_inference](https://github.com/COGS108/Lectures-Ellis/tree/wi25/06_inference)   | 
 | 07 | Text Analysis  |  [07_text](https://github.com/COGS108/Lectures-Ellis/tree/wi25/07_text)  | 
