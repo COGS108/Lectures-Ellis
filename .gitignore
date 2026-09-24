@@ -1,1 +1,8 @@
 QRCodes/*
+
+# system / Jupyter clutter
+.DS_Store
+.ipynb_checkpoints/
+
+# unreleased lectures - post each with: git add -f <notebook>.ipynb
+*.ipynb
