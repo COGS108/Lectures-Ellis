@@ -1,0 +1,538 @@
+major,class_level,statistics_level,programming_level,group_projects,group_leader,gender
+MATH,Junior,7,8,Love them!,Yes,Male
+CSE,Freshman,4,7,Love them!,Yes,Male
+MAE,Freshman,5,6,Love them!,Yes,Female
+PSYC,Senior,8,6,They're OK,No,Male
+MATH,Junior,8,8,They're OK,No,Male
+COGS,Senior,6,5,Neutral,Yes,Female
+COGS,Junior,6,5,They're OK,No,Female
+COGS,Senior,8,7,They're OK,Yes,Female
+MATH,Freshman,7,7,Neutral,Yes,Female
+COGS,Junior,3,5,They're OK,No,Female
+COGS,Senior,7,3,Love them!,Yes,Female
+ECE,Junior,5,7,Would prefer something else,No,Male
+COGS,Junior,5,5,They're OK,Yes,Female
+COGS,Senior,7,8,They're OK,Yes,Male
+BIOL,Senior,6,8,Would prefer something else,Yes,Female
+DSC,Junior,8,7,Would prefer something else,Yes,Male
+DSC,Senior,8,9,Would prefer something else,No,Male
+COGS,Senior,7,4,They're OK,No,Male
+MATH,Senior,8,7,Would prefer something else,No,Female
+CHEM,Senior,6,3,Would prefer something else,No,Female
+COGS,Sophomore,5,4,Would prefer something else,No,Female
+BIOL,Senior,4,4,They're OK,No,Male
+COGS,Senior,4,6,They're OK,No,Male
+COGS,Junior,7,7,Love them!,No,Male
+COGS,Junior,7,7,They're OK,No,Female
+DSC,Junior,9,10,Love them!,Yes,Male
+COGS,Junior,6,7,They're OK,No,Female
+MATH,Senior,7,7,They're OK,Yes,Male
+COGS,Senior,4,4,They're OK,Yes,NA
+COGS,Senior,1,1,Love them!,Yes,NA
+COGS,Senior,4,6,Hate them!,No,Female
+BIOL,Senior,6,4,They're OK,No,Female
+ANTH,Senior,6,8,Love them!,Yes,Female
+COGS,Junior,5,3,They're OK,Yes,Female
+COGS,Junior,6,4,Love them!,No,Male
+COGS,Junior,8,6,Love them!,Yes,Female
+COGS,Junior,7,8,Love them!,Yes,Male
+DSC,Junior,6,9,They're OK,Yes,Female
+CSE,Sophomore,6,6,They're OK,Yes,Male
+PSYC,Senior,3,1,Neutral,No,Female
+MATH,Senior,6,10,Neutral,No,Male
+COGS,Sophomore,6,6,Love them!,Yes,Male
+DSC,Senior,7,7,Love them!,No,Male
+MATH,Senior,7,7,They're OK,Yes,NA
+CSE,Senior,5,6,Neutral,Yes,Male
+COGS,Senior,4,1,Neutral,No,Female
+DSC,Freshman,2,6,They're OK,Yes,Male
+COGS,Junior,4,5,They're OK,No,Female
+CSE,Senior,9,9,Love them!,Yes,Male
+PSYC,Senior,4,4,They're OK,Yes,Female
+COGS,Senior,6,4,They're OK,No,Female
+MATH,Junior,6,5,Love them!,No,Male
+CENG,Senior,8,7,They're OK,Yes,Female
+COGS,Sophomore,6,7,Neutral,No,NA
+CSE,Senior,7,9,They're OK,Yes,NA
+CSE,Junior,7,8,They're OK,Yes,Male
+COGS,Senior,5,5,They're OK,Yes,Male
+COGS,Freshman,3,5,Neutral,No,Male
+COGS,Freshman,8,8,Love them!,Yes,Male
+COGS,Junior,5,4,They're OK,Yes,Female
+BIOL,Senior,7,5,They're OK,Yes,Male
+DSC,Senior,3,3,They're OK,No,Female
+COGS,Senior,4,5,Would prefer something else,Yes,Female
+COGS,Junior,4,4,They're OK,Yes,Female
+COGS,Senior,3,3,They're OK,Yes,Male
+SIO,Senior,7,4,They're OK,No,NA
+CSE,Junior,5,8,They're OK,No,Male
+CSE,Senior,4,6,Would prefer something else,No,Female
+ECON,Senior,8,5,Neutral,Yes,Female
+ECON,Senior,6,3,They're OK,No,Female
+DSC,Senior,8,6,They're OK,No,Male
+COGS,Junior,7,5,Neutral,No,Male
+DSC,Freshman,10,6,Would prefer something else,No,Female
+COGS,Sophomore,6,5,They're OK,Yes,Female
+ECE,Senior,7,9,They're OK,No,Male
+COGS,Sophomore,7,7,They're OK,Yes,Female
+COGS,Senior,4,6,They're OK,Yes,Female
+CSE,Senior,6,7,They're OK,No,Female
+COGS,Junior,4,5,Would prefer something else,No,Female
+COGS,Senior,6,8,Neutral,Yes,Male
+CSE,Senior,6,8,Love them!,No,Male
+COGS,Senior,2,3,They're OK,No,Female
+COGS,Junior,4,5,They're OK,Yes,Female
+MATH,Junior,6,8,Neutral,No,Male
+COGS,Junior,5,7,Neutral,Yes,Male
+COGS,Sophomore,3,7,Neutral,No,Female
+CHEM,Senior,7,6,They're OK,Yes,Female
+PSYC,Senior,5,3,They're OK,Yes,Female
+SPPR,Sophomore,4,5,Would prefer something else,No,Female
+COGS,Sophomore,4,4,Would prefer something else,Yes,Male
+COGS,Junior,6,3,Hate them!,No,Male
+COGS,Junior,6,6,They're OK,No,Male
+CHEM,Junior,8,7,They're OK,Yes,Female
+COGS,Junior,6,6,They're OK,Yes,Female
+COGS,Junior,6,5,Neutral,Yes,Female
+COGS,Junior,3,5,Neutral,No,Female
+COGS,Junior,9,9,Would prefer something else,Yes,Male
+CSE,Senior,7,7,They're OK,No,Male
+COGS,Junior,8,5,They're OK,No,Female
+COGS,Junior,7,7,They're OK,No,Male
+PSYC,Senior,6,3,They're OK,Yes,Female
+CSE,Junior,8,10,Love them!,Yes,Male
+DSC,Senior,8,8,Love them!,Yes,Male
+MATH,Junior,4,6,Love them!,No,Female
+COGS,Senior,8,10,They're OK,No,Male
+PSYC,Senior,6,4,Would prefer something else,Yes,Female
+DSC,Junior,7,8,They're OK,No,Male
+COGS,Junior,5,3,They're OK,No,NA
+COGS,Senior,6,5,They're OK,Yes,Female
+COGS,Sophomore,4,7,Neutral,No,Female
+BIOL,Junior,6,6,They're OK,No,Male
+COGS,Junior,4,5,Love them!,No,Female
+COGS,Senior,7,7,Would prefer something else,Yes,Male
+ECE,Senior,6,6,Love them!,No,Male
+CSE,Senior,4,5,They're OK,No,Male
+CSE,Senior,4,8,Neutral,Yes,Male
+COGS,Junior,6,3,Love them!,No,Male
+DSC,Freshman,5,10,Love them!,Yes,Male
+COGS,Senior,9,9,Love them!,Yes,Male
+COGS,Sophomore,6,4,Neutral,No,Female
+CSE,Senior,9,10,They're OK,Yes,Female
+BIOL,Senior,4,3,They're OK,Yes,Female
+DSC,Senior,7,10,They're OK,No,Male
+COGS,Sophomore,4,9,Love them!,Yes,Female
+COGS,Junior,6,4,They're OK,No,Female
+CSE,Senior,5,5,Love them!,Yes,Male
+ECE,Senior,4,8,They're OK,Yes,Male
+DSC,Sophomore,7,3,They're OK,Yes,Male
+DSC,Senior,8,8,They're OK,Yes,Female
+COGS,Senior,6,10,They're OK,Yes,Female
+ECE,Senior,5,8,They're OK,No,Male
+COGS,Senior,4,4,Love them!,Yes,Female
+MATH,Senior,8,4,They're OK,Yes,Female
+ECE,Junior,5,6,They're OK,No,Male
+COGS,Junior,8,5,They're OK,Yes,Female
+ECON,Senior,8,7,They're OK,Yes,Female
+CSE,Junior,4,9,They're OK,No,Male
+MATH,Senior,5,7,They're OK,No,Male
+CSE,Sophomore,7,9,They're OK,No,NA
+COGS,Sophomore,6,3,Neutral,No,Female
+MATH,Senior,8,6,They're OK,No,Female
+SOC,Sophomore,9,7,Neutral,Yes,Female
+ECON,Junior,5,5,They're OK,Yes,Male
+POLI,Senior,5,8,Would prefer something else,Yes,Female
+DSC,Senior,7,8,They're OK,Yes,Female
+DSC,Sophomore,7,8,They're OK,No,Male
+CSE,Senior,9,9,They're OK,Yes,Male
+DSC,Senior,6,4,They're OK,No,Male
+COGS,Junior,8,5,Neutral,No,Female
+COGS,Sophomore,7,7,They're OK,Yes,Female
+BIOL,Senior,6,4,They're OK,No,Male
+DSC,Senior,10,9,Neutral,No,Male
+COGS,Junior,7,7,Love them!,No,Male
+PSYC,Senior,3,1,Hate them!,No,Male
+DSC,Junior,9,7,They're OK,No,Female
+COGS,Junior,6,6,Love them!,Yes,Female
+CSE,Junior,6,7,They're OK,Yes,Female
+COGS,Junior,3,6,Would prefer something else,No,Female
+DSC,Senior,8,8,Neutral,No,Male
+COGS,Senior,6,4,They're OK,No,Female
+CSE,Senior,7,9,They're OK,Yes,Male
+SPPR,Freshman,4,3,Love them!,Yes,Male
+MATH,Senior,7,10,Would prefer something else,No,Female
+MATH,Junior,8,8,They're OK,Yes,Female
+COGS,Junior,10,10,Love them!,Yes,Female
+COGS,Freshman,10,5,Neutral,No,Female
+COGS,Junior,4,4,Love them!,No,Male
+DSC,Junior,6,6,They're OK,No,Male
+DSC,Junior,5,5,Love them!,No,Male
+COGS,Senior,5,8,They're OK,Yes,Male
+ECE,Junior,5,9,They're OK,No,NA
+COGS,Sophomore,4,4,They're OK,Yes,Female
+BIOL,Senior,6,5,Neutral,No,Female
+PSYC,Junior,6,4,Would prefer something else,Yes,Female
+EDS,Junior,8,3,Would prefer something else,No,Female
+DSC,Senior,7,8,They're OK,No,Female
+COGS,Junior,5,7,Neutral,Yes,Female
+MATH,Junior,8,7,They're OK,Yes,Female
+BIOL,Senior,7,8,They're OK,Yes,Female
+MATH,Senior,10,10,Love them!,No,Male
+COGS,Junior,5,6,Neutral,Yes,Male
+COGS,Senior,7,4,They're OK,No,Male
+COGS,Junior,8,5,Love them!,Yes,Female
+SPPR,Junior,7,7,They're OK,No,Male
+DSC,Senior,9,7,They're OK,No,Female
+COGS,Junior,3,6,They're OK,Yes,Male
+MATH,Junior,4,8,They're OK,No,Male
+ECON,Freshman,4,2,They're OK,Yes,Female
+COGS,Sophomore,5,3,Neutral,No,Female
+CSE,Senior,6,10,They're OK,No,Male
+VIS,Senior,5,5,Neutral,No,Decline to answer
+COGS,Senior,6,5,They're OK,Yes,Female
+ECON,Junior,9,8,They're OK,Yes,Female
+COGS,Junior,7,7,They're OK,Yes,Female
+CSE,Senior,7,9,Hate them!,No,Male
+BIOL,Senior,6,8,Neutral,No,NA
+COGS,Sophomore,6,6,They're OK,No,Female
+COGS,Junior,5,3,Love them!,No,NA
+BIOL,Senior,5,5,Neutral,No,Male
+COGS,Junior,2,3,They're OK,No,Female
+MATH,Senior,10,6,Neutral,Yes,Female
+VIS,Junior,6,6,They're OK,Yes,Female
+CSE,Freshman,5,9,Would prefer something else,Yes,Male
+MATH,Freshman,7,8,Love them!,No,Male
+DSC,Senior,2,10,Love them!,Yes,Male
+CSE,Senior,7,7,Neutral,No,Male
+DSC,Sophomore,7,9,Neutral,No,Male
+MATH,Senior,5,7,They're OK,No,Male
+MATH,Junior,5,7,Would prefer something else,No,Male
+ECON,Sophomore,5,7,They're OK,Yes,Female
+ECE,Senior,5,5,They're OK,Yes,Male
+ECE,Senior,7,9,They're OK,No,Male
+MATH,Junior,2,6,They're OK,No,NA
+DSC,Sophomore,8,8,Love them!,Yes,Male
+COGS,Senior,8,10,Neutral,No,Female
+DSC,Junior,7,5,They're OK,Yes,Female
+BIOL,Senior,6,5,They're OK,Yes,Female
+CSE,Freshman,10,10,Hate them!,No,Male
+COGS,Junior,7,6,They're OK,No,Female
+COGS,Senior,6,7,They're OK,No,Male
+MATH,Junior,4,7,They're OK,Yes,Male
+MATH,Freshman,6,7,Love them!,No,Male
+COGS,Freshman,7,7,They're OK,Yes,Male
+BENG,Freshman,6,4,Love them!,Yes,Female
+DSC,Junior,8,9,Love them!,No,Male
+CSE,Junior,7,7,Love them!,No,Female
+MATH,Sophomore,5,6,They're OK,No,Male
+COGS,Freshman,7,10,Neutral,Yes,Male
+COGS,Sophomore,5,5,Neutral,No,Male
+COGS,Senior,5,5,Neutral,Yes,Female
+ECE,Senior,6,8,Neutral,No,NA
+MATH,Senior,6,10,They're OK,No,NA
+CSE,Senior,6,7,They're OK,Yes,Male
+COGS,Sophomore,3,4,They're OK,No,NA
+MATH,Freshman,10,8,Love them!,Yes,Male
+CSE,Junior,6,8,They're OK,Yes,NA
+CSE,Freshman,7,4,Neutral,No,Female
+MATH,Junior,3,5,Would prefer something else,No,NA
+POLI,Senior,7,6,Hate them!,No,Male
+CSE,Senior,7,7,Love them!,No,Male
+PSYC,Senior,8,3,Would prefer something else,No,Female
+CSE,Freshman,5,8,They're OK,Yes,Male
+CSE,Freshman,5,7,Neutral,No,Female
+COGS,Freshman,7,7,They're OK,Yes,Male
+BIOL,Sophomore,6,9,Love them!,No,Male
+MATH,Senior,7,9,They're OK,Yes,Female
+MATH,Junior,6,7,They're OK,Yes,Female
+VIS,Sophomore,5,6,Neutral,No,Female
+ECE,Senior,5,9,Neutral,No,Female
+MATH,Senior,5,5,They're OK,No,NA
+COGS,Sophomore,5,1,Neutral,Yes,Nonbinary
+CSE,Freshman,6,7,They're OK,No,Male
+CSE,Freshman,7,8,Neutral,No,Male
+MATH,Junior,5,7,They're OK,No,Male
+COGS,Freshman,8,5,They're OK,Yes,Female
+BIOL,Senior,7,6,Neutral,No,Male
+MATH,Senior,5,6,Neutral,No,Male
+MATH,Junior,4,4,Hate them!,Yes,Male
+CSE,Senior,6,5,Neutral,No,Male
+ECE,Sophomore,4,4,Love them!,No,Male
+DSC,Senior,5,5,Would prefer something else,No,Male
+ECON,Senior,6,5,Neutral,Yes,Male
+SPPR,Freshman,8,8,Neutral,Yes,Male
+COGS,Junior,9,5,Neutral,Yes,Female
+CSE,Freshman,7,10,Hate them!,Yes,Male
+CSE,Junior,6,10,They're OK,Yes,Male
+CSE,Junior,6,8,They're OK,No,Male
+MATH,Freshman,4,7,They're OK,Yes,NA
+COGS,Junior,6,8,Love them!,Yes,Male
+MATH,Freshman,7,6,Love them!,No,Male
+DSC,Senior,6,7,They're OK,No,NA
+CSE,Senior,7,10,Hate them!,No,Male
+MATH,Sophomore,6,5,Neutral,Yes,Female
+ECON,Junior,6,3,They're OK,Yes,Female
+DSC,Junior,3,5,Neutral,No,Male
+COGS,Junior,4,7,They're OK,No,Female
+COGS,Sophomore,8,2,They're OK,Yes,Female
+BIOL,Senior,7,8,They're OK,Yes,Female
+ECON,Senior,6,7,They're OK,No,Male
+VIS,Junior,3,6,They're OK,No,Female
+DSC,Senior,10,10,Love them!,Yes,Female
+CSE,Senior,5,9,Love them!,Yes,Male
+CSE,Junior,2,6,Neutral,Yes,Female
+CSE,Freshman,4,7,They're OK,Yes,Male
+COGS,Senior,6,4,They're OK,No,Nonbinary
+PSYC,Sophomore,6,3,Would prefer something else,No,Female
+COGS,Junior,5,5,They're OK,Yes,Female
+MATH,Junior,7,7,Would prefer something else,Yes,Male
+MATH,Junior,6,8,Neutral,No,NA
+COGS,Junior,5,3,They're OK,No,Female
+MATH,Senior,7,10,Neutral,No,Male
+MATH,Freshman,8,7,They're OK,Yes,Female
+MATH,Sophomore,8,8,They're OK,No,Male
+COGS,Senior,5,4,They're OK,Yes,Female
+CSE,Junior,7,5,Love them!,Yes,Male
+MATH,Sophomore,5,4,Love them!,Yes,Male
+CSE,Junior,8,7,They're OK,Yes,Male
+CSE,Senior,6,8,They're OK,Yes,Male
+MATH,Senior,9,5,Neutral,Yes,Female
+CSE,Freshman,5,8,Neutral,Yes,Male
+CSE,Senior,7,9,They're OK,Yes,Male
+CSE,Senior,6,3,Love them!,No,Female
+CSE,Freshman,8,8,Love them!,Yes,Male
+CSE,Freshman,5,8,Neutral,Yes,Female
+ECE,Freshman,5,5,They're OK,No,Female
+CSE,Freshman,6,10,They're OK,No,Male
+CSE,Freshman,8,10,They're OK,Yes,Female
+COGS,Senior,4,3,They're OK,Yes,Male
+COGS,Junior,6,7,They're OK,No,Male
+COGS,Freshman,8,5,They're OK,No,Female
+CSE,Freshman,3,8,Neutral,No,Male
+COGS,Freshman,5,4,They're OK,No,Male
+ECE,Freshman,5,6,They're OK,No,Male
+DSC,Senior,7,9,They're OK,Yes,Female
+MATH,Freshman,8,6,They're OK,No,Male
+ECE,Senior,5,9,They're OK,No,Male
+CSE,Junior,7,10,Neutral,Yes,NA
+CHEM,Senior,9,3,Would prefer something else,No,Nonbinary
+COGS,Senior,7,6,They're OK,No,Female
+DSC,Sophomore,6,6,Neutral,Yes,Male
+COGS,Junior,6,4,Would prefer something else,No,Male
+CSE,Senior,5,7,Love them!,No,Decline to answer
+CSE,Freshman,6,7,They're OK,No,NA
+ECON,Junior,5,5,They're OK,Yes,Female
+CSE,Junior,7,6,They're OK,No,Male
+COGS,Freshman,7,9,They're OK,Yes,Male
+MATH,Senior,9,9,Neutral,Yes,Male
+MATH,Junior,8,8,Love them!,Yes,Male
+BIOL,Senior,7,3,Love them!,Yes,Male
+MATH,Senior,10,10,They're OK,Yes,Female
+BIOL,Junior,6,6,Neutral,Yes,Male
+PSYC,Sophomore,7,7,Neutral,Yes,NA
+ECE,Senior,2,7,They're OK,No,Female
+CSE,Freshman,1,10,They're OK,No,NA
+CSE,Junior,3,10,They're OK,Yes,Decline to answer
+SPPR,Freshman,6,5,They're OK,No,Female
+CSE,Freshman,6,8,Love them!,No,Male
+COGS,Freshman,6,6,Would prefer something else,No,Female
+CSE,Freshman,8,10,They're OK,No,Male
+CSE,Junior,6,6,Love them!,Yes,Male
+MATH,Freshman,4,6,Love them!,Yes,Male
+CSE,Junior,5,8,They're OK,No,Male
+MATH,Junior,7,9,They're OK,Yes,Male
+CSE,Sophomore,4,7,Would prefer something else,Yes,Male
+DSC,Sophomore,7,3,Love them!,No,Male
+COGS,Freshman,2,4,Neutral,Yes,Female
+COGS,Junior,6,3,They're OK,Yes,Female
+DSC,Senior,6,6,Neutral,No,Male
+CSE,Junior,4,8,Love them!,Yes,Male
+COGS,Junior,5,6,They're OK,No,Male
+DSC,Senior,5,5,They're OK,Yes,Male
+MATH,Senior,6,5,They're OK,No,Female
+COGS,Junior,6,3,Would prefer something else,Yes,Female
+COGS,Junior,7,4,Neutral,Yes,Female
+ECE,Junior,7,8,Neutral,No,Male
+COGS,Freshman,4,2,Would prefer something else,No,Female
+CSE,Freshman,4,6,Neutral,No,Male
+CSE,Junior,5,7,Hate them!,No,Male
+PSYC,Freshman,7,3,Neutral,Yes,Female
+COGS,Senior,5,6,They're OK,Yes,Male
+BIOL,Senior,6,5,They're OK,No,Female
+MUS,Senior,7,4,They're OK,Yes,Female
+BIOL,Senior,5,4,They're OK,No,Male
+DSC,Freshman,6,7,They're OK,No,Male
+ECE,Junior,6,4,Love them!,Yes,NA
+MATH,Junior,6,7,They're OK,Yes,Female
+CSE,Senior,6,7,Neutral,No,Male
+COGS,Freshman,8,4,They're OK,Yes,Male
+ECON,Sophomore,6,7,They're OK,No,NA
+MATH,Junior,10,10,Neutral,Yes,NA
+ECON,Senior,7,6,They're OK,Yes,Female
+MATH,Freshman,1,4,Would prefer something else,Yes,Male
+CSE,Freshman,7,7,Neutral,No,Male
+COGS,Junior,8,7,They're OK,Yes,Female
+DSC,Senior,8,8,They're OK,No,Male
+CSE,Senior,5,9,Love them!,Yes,Male
+DSC,Junior,6,9,Love them!,No,Male
+CSE,Junior,4,9,They're OK,Yes,Female
+MATH,Sophomore,8,4,Would prefer something else,No,NA
+VIS,Senior,5,5,Love them!,No,Female
+MATH,Junior,5,5,Neutral,No,Female
+MATH,Junior,6,6,They're OK,No,Male
+MATH,Sophomore,8,7,They're OK,No,Male
+MATH,Sophomore,8,8,Neutral,No,Male
+MATH,Senior,2,3,Would prefer something else,No,Male
+COGS,Junior,5,5,They're OK,No,Male
+ECON,Senior,6,6,Neutral,Yes,Male
+COGS,Sophomore,4,9,Love them!,No,Female
+MATH,Senior,5,5,Neutral,No,Female
+COGS,Freshman,6,6,Hate them!,Yes,Female
+CSE,Freshman,6,8,They're OK,Yes,Male
+MATH,Senior,7,6,They're OK,No,Male
+CSE,Junior,1,6,Neutral,Yes,Male
+CSE,Junior,8,8,They're OK,No,Male
+CSE,Freshman,3,3,Neutral,Yes,Female
+MATH,Senior,5,7,They're OK,No,Male
+MATH,Sophomore,6,6,They're OK,Yes,Female
+MATH,Senior,6,7,Neutral,No,Female
+DSC,Freshman,7,8,Neutral,No,Male
+CSE,Junior,7,8,Neutral,Yes,Male
+COGS,Senior,7,3,Neutral,No,Female
+COGS,Junior,9,7,They're OK,Yes,Male
+ECE,Senior,2,5,Hate them!,No,Female
+CSE,Freshman,7,7,They're OK,No,Male
+ECON,Sophomore,2,4,Neutral,Yes,NA
+MATH,Senior,7,9,They're OK,No,Female
+ECON,Freshman,7,6,Love them!,Yes,Female
+CSE,Senior,6,7,They're OK,No,Male
+CSE,Freshman,8,9,They're OK,Yes,Female
+DSC,Senior,7,8,They're OK,No,Female
+COGS,Senior,5,8,They're OK,No,Male
+COGS,Junior,3,3,They're OK,No,Female
+CSE,Junior,8,10,Would prefer something else,Yes,Female
+COGS,Junior,8,6,Neutral,Yes,Male
+CSE,Senior,5,7,They're OK,No,Female
+COGS,Junior,6,8,They're OK,No,Female
+COGS,Junior,4,4,They're OK,No,Female
+MATH,Senior,6,4,Neutral,Yes,NA
+CSE,Freshman,9,5,They're OK,No,Male
+COGS,Junior,1,2,Love them!,Yes,Female
+COGS,Junior,3,3,They're OK,Yes,Female
+CSE,Freshman,6,9,Love them!,Yes,Male
+CSE,Freshman,4,8,They're OK,Yes,Male
+COGS,Senior,5,5,They're OK,No,Female
+CSE,Junior,4,8,They're OK,Yes,Male
+CSE,Senior,7,10,They're OK,Yes,Female
+CSE,Freshman,6,7,They're OK,No,NA
+MATH,Junior,7,10,Would prefer something else,Yes,Female
+CSE,Senior,9,10,They're OK,Yes,Male
+DSC,Junior,5,6,They're OK,No,Nonbinary
+DSC,Senior,7,7,Would prefer something else,Yes,Male
+CSE,Freshman,3,10,Love them!,Yes,Male
+CSE,Senior,5,9,They're OK,Yes,NA
+COGS,Junior,9,4,Love them!,No,Male
+COGS,Junior,4,3,They're OK,No,Male
+CSE,Senior,7,10,Love them!,Yes,Male
+CSE,Junior,6,7,They're OK,No,Male
+MATH,Freshman,5,6,Love them!,Yes,Female
+COGS,Freshman,6,3,Would prefer something else,No,Female
+DSC,Junior,8,4,Would prefer something else,No,Male
+DSC,Senior,6,8,They're OK,No,Male
+BIOL,Sophomore,6,5,Hate them!,No,Male
+PSYC,Sophomore,5,5,Neutral,No,Male
+SPPR,Freshman,5,8,Love them!,Yes,Female
+MATH,Freshman,5,10,They're OK,Yes,Male
+DSC,Senior,7,7,Love them!,Yes,Female
+MATH,Freshman,6,8,Would prefer something else,Yes,Male
+COGS,Freshman,5,4,They're OK,Yes,NA
+ECE,Sophomore,4,5,Would prefer something else,No,Male
+DSC,Senior,7,8,They're OK,Yes,Male
+COGS,Junior,3,4,Would prefer something else,No,Female
+PSYC,Senior,6,3,They're OK,No,Male
+CSE,Senior,7,6,They're OK,No,Female
+DSC,Freshman,5,5,Neutral,Yes,Female
+MATH,Junior,2,6,Neutral,No,NA
+ECON,Senior,4,5,They're OK,Yes,Female
+DSC,Senior,9,8,They're OK,Yes,Male
+CSE,Junior,7,9,They're OK,No,Male
+DSC,Freshman,8,8,Love them!,Yes,Female
+ECE,Senior,8,9,Love them!,Yes,Female
+BIOL,Junior,7,2,They're OK,Yes,Female
+COGS,Junior,9,8,They're OK,Yes,Male
+CSE,Junior,7,9,They're OK,No,Male
+POLI,Senior,4,2,Would prefer something else,Yes,Female
+MATH,Senior,7,10,They're OK,Yes,Male
+CSE,Junior,6,7,Neutral,Yes,Male
+COGS,Junior,5,5,They're OK,No,Female
+DSC,Junior,7,7,Love them!,No,Male
+CSE,Freshman,6,9,Neutral,No,Male
+COGS,Freshman,5,5,Love them!,No,Male
+MATH,Junior,7,6,Would prefer something else,No,Female
+ECON,Senior,7,4,Neutral,No,Male
+COGS,Junior,7,4,They're OK,No,Male
+COGS,Freshman,6,6,Neutral,No,Female
+ECON,Senior,6,6,Love them!,Yes,Male
+NENG,Senior,3,8,Neutral,No,NA
+MATH,Senior,5,3,Neutral,Yes,Female
+VIS,Senior,6,4,Neutral,Yes,Female
+COGS,Sophomore,6,8,They're OK,Yes,Male
+COGS,Junior,5,4,They're OK,No,Female
+MATH,Freshman,7,7,Neutral,Yes,Male
+CSE,Junior,5,7,They're OK,No,Male
+COGS,Junior,7,5,Neutral,Yes,Male
+COGS,Junior,6,8,Neutral,Yes,Female
+CSE,Senior,8,10,They're OK,No,Male
+COGS,Senior,6,3,Love them!,Yes,Female
+COGS,Junior,6,9,They're OK,Yes,Male
+CSE,Senior,2,10,They're OK,Yes,Male
+CSE,Senior,6,8,Neutral,No,Female
+CSE,Senior,6,7,Neutral,No,Male
+COGS,Freshman,7,5,Love them!,Yes,Female
+DSC,Senior,5,7,Love them!,No,Female
+ECE,Junior,6,8,They're OK,Yes,Male
+ECE,Freshman,3,3,Would prefer something else,No,Male
+CSE,Freshman,4,9,They're OK,Yes,Male
+BIOL,Freshman,8,6,Would prefer something else,No,Male
+COGS,Junior,7,6,Love them!,Yes,Female
+LING,Junior,5,6,They're OK,Yes,Female
+COGS,Junior,9,5,Hate them!,Yes,NA
+MATH,Junior,6,7,Neutral,Yes,Female
+COGS,Freshman,7,7,Neutral,No,Male
+CSE,Senior,8,9,Would prefer something else,Yes,Male
+DSC,Junior,10,4,They're OK,No,Male
+CSE,Junior,3,10,Neutral,No,Male
+CSE,Freshman,3,6,Love them!,Yes,Male
+CSE,Freshman,3,10,They're OK,Yes,NA
+MATH,Senior,3,7,Love them!,No,Male
+CSE,Freshman,9,9,Neutral,No,Male
+POLI,Freshman,8,8,Neutral,Yes,Male
+CSE,Freshman,7,9,They're OK,Yes,Male
+ECON,Senior,7,2,Neutral,No,Female
+BIOL,Senior,4,3,Neutral,No,Female
+MATH,Freshman,8,8,They're OK,Yes,Male
+DSC,Senior,7,7,They're OK,No,Male
+CSE,Junior,7,7,They're OK,No,Male
+CSE,Freshman,6,9,Neutral,Yes,NA
+CSE,Freshman,5,7,They're OK,No,Male
+DSC,Sophomore,7,7,They're OK,No,Male
+MATH,Freshman,10,9,Neutral,Yes,Male
+COGS,Junior,6,4,Neutral,No,Female
+JAPN,Senior,2,10,Would prefer something else,No,Female
+ECE,Sophomore,5,7,They're OK,No,Male
+CSE,Freshman,4,8,Love them!,No,Male
+COGS,Sophomore,7,10,Would prefer something else,Yes,Male
+MATH,Sophomore,6,5,Neutral,Yes,Female
+COGS,Junior,6,4,They're OK,No,Female
+CSE,Junior,7,8,Would prefer something else,No,Male
+DSC,Junior,7,8,Neutral,Yes,Male
+CSE,Junior,5,6,Neutral,No,Male
+CSE,Freshman,8,8,Neutral,No,Male
+CSE,Senior,3,5,Neutral,No,Male
+DSC,Sophomore,7,6,They're OK,Yes,Female
+PHYS,Junior,6,9,Hate them!,No,Male
+ECON,Junior,8,7,They're OK,Yes,Female
+DSC,Senior,8,8,Love them!,Yes,Male
+PSYC,Junior,5,3,Neutral,Yes,Male
+CSE,Freshman,3,5,Neutral,No,Male
